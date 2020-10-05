@@ -1,0 +1,358 @@
+{
+  "coc-actions.hideCursor": false,
+
+  "coc.preferences.bracketEnterImprove": true,
+  "coc.preferences.colorSupport": true,
+  "coc.preferences.currentFunctionSymbolAutoUpdate": true,
+  "coc.preferences.enableFloatHighlight": true,
+  "coc.preferences.extensionUpdateCheck": "never",
+  "coc.preferences.formatOnSaveFiletypes": [
+    /* "css", */
+    "markdown",
+    "javascript",
+    "typescript",
+    "typescriptreact"
+  ],
+
+  "coc.preferences.formatOnType": false,
+  "coc.preferences.hoverTarget": "float",
+  "coc.preferences.jumpCommand": "edit",
+  "coc.preferences.messageLevel": "error",
+  "coc.preferences.previewAutoClose": true,
+  "coc.preferences.snippetStatusText": "Ⓢ ",
+  "coc.preferences.snippets.enable": true,
+  "coc.preferences.useQuickfixForLocations": false,
+  "coc.source.around.enable": true,
+  "coc.source.around.disableSyntaxes": [],
+  "coc.source.around.firstMatch": true,
+  "coc.source.around.priority": 1,
+  "coc.source.around.shortcut": "A",
+  "coc.source.buffer.enable": true,
+  "coc.source.buffer.disableSyntaxes": [],
+  "coc.source.buffer.firstMatch": true,
+  "coc.source.buffer.ignoreGitignore": false,
+  "coc.source.buffer.priority": 1,
+  "coc.source.buffer.shortcut": "B",
+  "coc.source.file.enable": true,
+  "coc.source.file.disableSyntaxes": [],
+  "coc.source.file.ignoreHidden": true,
+  "coc.source.file.ignorePatterns": ["**/dist/*"],
+  "coc.source.file.priority": 99,
+  "coc.source.file.shortcut": "F",
+  "coc.source.file.triggerCharacters": ["/"],
+  "coc.source.file.trimSameExts": [".ts", ".js"],
+  "coc.source.word.enable": true,
+  "coc.source.word.filetypes": ["markdown", "text"],
+
+  "codeLens.enable": true,
+  "codeLens.separator": "",
+
+  "cSpell.language": "en-GB",
+  "cSpell.showStatus": false,
+  "cSpell.enabledLanguageIds": [
+    "css",
+    "git-commit",
+    "json",
+    "jsonc",
+    "markdown",
+    "plaintext",
+    "restructuredtext",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "vim",
+    "yaml",
+    "yml"
+  ],
+
+  "diagnostic.checkCurrentLine": false,
+  "diagnostic.displayByAle": false,
+  "diagnostic.enable": true,
+  "diagnostic.enableMessage": "never",
+  "diagnostic.messageTarget": "echo",
+  "diagnostic.maxWindowHeight": 5,
+  "diagnostic.refreshAfterSave": false,
+  "diagnostic.refreshOnInsertMode": true,
+  "diagnostic.virtualText": true,
+  "diagnostic.virtualTextLines": 3,
+  "diagnostic.virtualTextLineSeparator": " \\ ",
+  "diagnostic.virtualTextPrefix": "  ",
+  "diagnostic.highlightOffset": 1000,
+  "diagnostic.signOffset": 999999,
+  "diagnostic.enableSign": true,
+  "diagnostic.errorSign": "•",
+  "diagnostic.infoSign": "🛈",
+  "diagnostic.hintSign": "❗",
+  "diagnostic.warningSign": "➤",
+
+  "diagnostic-languageserver.enable": true,
+  "diagnostic-languageserver.filetypes": {
+    "markdown": ["write-good", "proselint"],
+    "text": ["proselint", "write-good"],
+    "vim": "vint"
+  },
+
+  "diagnostic-languageserver.linters": {
+    "proselint": {
+      "command": "proselint",
+      "debounce": 200,
+      "args": ["--compact", "-"],
+      "offsetLine": 0,
+      "offsetColumn": 0,
+      "sourceName": "proselint",
+      "formatLines": 1,
+      "formatPattern": [
+        "^[^:]+:(\\d+):(\\d+):(\\s)(.*)$",
+        { "line": 1, "column": 2, "security": 3, "message": 4 }
+      ],
+      "securities": { " ": "info" }
+    }
+  },
+
+  "emmet.excludeLanguages": ["markdown", "php"],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "javascript.jsx": "javascriptreact"
+  },
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.showExpandedAbbreviation": "always",
+  "emmet.showSuggestionsAsSnippets": false,
+
+  "eslint.autoFixOnSave": false,
+  "eslint.packageManager": "yarn",
+
+  "git.enableGutters": false,
+
+  "highlight.colors.enable": true,
+  "highlight.document.enable": false,
+
+  "intelephense.format.enable": true,
+  "intelephense.licenceKey": "~/intelephense/licence.txt",
+  "intelephense.phpdoc.returnVoid": true,
+  "intelephense.diagnostics.enable": true,
+  "intelephense.completion.maxItems": 20,
+  "intelephense.completion.triggerParameterHints": true,
+  "intelephense.environment.phpVersion": "7.4.0",
+  "intelephense.stubs": [
+    "com_dotnet",
+    "Core",
+    "date",
+    "filter",
+    "gd",
+    "mbstring",
+    "mssql",
+    "mysqli",
+    "pcre",
+    "Phar",
+    "regex",
+    "SPL",
+    "standard",
+    "xml"
+  ],
+
+  "javascript.implementationsCodeLens.enable": false,
+  "javascript.referencesCodeLens.enable": false,
+  "javascript.suggest.autoImports": true,
+  "javascript.suggest.completeFunctionCalls": true,
+  "javascript.suggest.enabled": true,
+  "javascript.suggest.paths": true,
+  "javascript.suggestionActions.enabled": true,
+  "javascript.validate.enable": false,
+
+  "json.format.enable": true,
+
+	"languageserver": {
+		"intelephense": {
+			"command": "intelephense",
+			"args": ["--stdio"],
+			"filetypes": ["php"],
+			"initializationOptions": {
+				"storagePath": "/tmp/intelephense"
+			}
+		},
+		"bash": {
+			"command": "bash-language-server",
+			"args": ["start"],
+			"filetypes": ["sh", "bash"],
+			"ignoredRootPaths": ["~"]
+		},
+		"lua-language-server": {
+			"command": "lua-language-server",
+			"filetypes": ["lua"],
+			"settings": {
+				"Lua": {
+					"completion": { /* keywordSnippet = "Disable"; */ },
+					"runtime": { "version": "LuaJIT" },
+					"diagnostics": {
+						"enable": true,
+						"globals": [ "vim", "Color", "c", "Group", "g", "s", "describe", "it", "before_each", "after_each"]
+					}
+				}
+			}
+		},
+		"yaml-language-server": {
+			"command": "yaml-language-server",
+			"args": ["--stdio"],
+			"filetypes": ["yaml"]
+		}
+	},
+
+  "list.nextKeymap": "<C-j>",
+  "list.previousKeymap": "<C-k>",
+  "list.insertMappings": {
+    "<c-c>": "do:exit",
+    "<c-x>": "do:stop",
+    "<c-t>": "action:tabe",
+    "<c-g>": "action:vsplit",
+    "<c-v>": "action:split"
+  },
+
+  "list.autoResize": true,
+  "list.extendedSearchMode": true,
+  "list.indicator": ">",
+  "list.limitLines": 30000,
+  "list.maxHeight": 10,
+  "list.maxPreviewHeight": 12,
+  "list.previewHighlightGroup": "Search",
+  "list.previewSplitRight": false,
+  "list.selectedSignText": "*",
+  "list.signOffset": 900,
+  "list.source.files.excludePatterns": [
+    "/dist/*",
+    "**/vendor/**",
+    "**/node_modules/**",
+    "**/bower_components/**",
+    "**/.git/**"
+  ],
+  "list.source.mru.excludePatterns": ["../.git/*", "/tmp/*", ".gitignore"],
+
+  "markdownlint.config": {
+    "default": true
+  },
+
+  "phpls.enable": true,
+
+  "prettier.disableSuccessMessage": true,
+  "prettier.onlyUseLocalVersion": false,
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.statusItemText": "ⓟ ",
+  "prettier.tslintIntegration": true,
+  "prettier.trailingComma": "es5",
+
+  "python.jediEnabled": false,
+
+  "session.directory": "~/.cache/nvim/session",
+
+  "signature.enable": true,
+  "signature.hideOnTextChange": false,
+  "signature.maxWindowHeight": 8,
+  "signature.preferShownAbove": false,
+  "signature.target": "echo",
+  "signature.triggerSignatureWait": 50,
+
+  "snippets.autoTrigger": true,
+  "snippets.extends": {
+    "javascriptreact": ["javascript"],
+    "typescriptreact": ["typescript"]
+  },
+
+  "snippets.loadFromExtensions": false,
+  "snippets.priority": 100,
+  "snippets.snipmate.enable": false,
+  "snippets.shortcut": "S",
+  "snippets.triggerCharacters": [".", "t"],
+  "snippets.userSnippetsDirectory": "~/.config/nvim/ultisnips",
+
+  "suggest.autoTrigger": "always",
+
+  "suggest.completionItemKindLabels": {
+    "function": "\uf794",
+    "method": "\uf6a6",
+    "variable": "\uf71b",
+    "constant": "\uf8ff",
+    "struct": "\ufb44",
+    "class": "\uf0e8",
+    "interface": "\ufa52",
+    "text": "\ue612",
+    "enum": "\uf435",
+    "enumMember": "\uf02b",
+    "module": "\uf668",
+    "color": "\ue22b",
+    "property": "\ufab6",
+    "field": "\uf93d",
+    "unit": "\uf475",
+    "file": "\uf471",
+    "value": "\uf8a3",
+    "event": "\ufacd",
+    "folder": "\uf115",
+    "keyword": "\uf893",
+    "snippet": "\uf64d",
+    "operator": "\uf915",
+    "reference": "\uf87a",
+    "typeParameter": "\uf278",
+    "default": "\uf29c"
+  },
+
+  "suggest.detailField": "menu",
+  "suggest.detailMaxLength": 30,
+  "suggest.disableKind": true,
+  "suggest.disableMenu": false,
+  "suggest.disableMenuShortcut": false,
+  "suggest.echodocSupport": true,
+  "suggest.enablePreselect": false,
+  "suggest.enablePreview": true,
+  "suggest.fixInsertedWord": true,
+  "suggest.floatEnable": true,
+  "suggest.keepCompleteopt": true,
+  "suggest.labelMaxLength": 50,
+  "suggest.languageSourcePriority": 99,
+  "suggest.localityBonus": true,
+  "suggest.maxCompleteItemCount": 30,
+  "suggest.maxPreviewWidth": 50,
+  "suggest.minTriggerInputLength": 2,
+  "suggest.noselect": false,
+  "suggest.numberSelect": false,
+  "suggest.preferCompleteThanJumpPlaceholder": false,
+  "suggest.removeDuplicateItems": false,
+  "suggest.snippetIndicator": "⭐︎",
+  "suggest.timeout": 4000,
+  "suggest.triggerAfterInsertEnter": false,
+  "suggest.triggerCompletionWait": 100,
+
+
+  "tsserver.enableJavascript": true,
+  "tsserver.reportStyleChecksAsWarnings": true,
+  "tsserver.formatOnType": true,
+  "tsserver.locale": "en-gb",
+
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "typescript.implementationsCodeLens.enable": false,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.quoteStyle": "double",
+  "typescript.referencesCodeLens.enable": false,
+  "typescript.suggest.autoImports": true,
+  "typescript.suggest.completeFunctionCalls": true,
+  "typescript.suggest.enabled": true,
+  "typescript.suggest.paths": true,
+  "typescript.suggestionActions.enabled": true,
+
+  "typescript.updateImportsOnFileMove.enable": true,
+  "typescript.validate.enable": true,
+
+  "vimlsp.diagnostic.enable": false,
+  "vimlsp.indexes.runtimepath": false,
+
+  "workspace.ignoredFiletypes": ["markdown", "log", "txt", "help"],
+
+  "yaml.format.enable": true,
+  "yaml.validate": false,
+  "yaml.schemas": { "http://json.schemastore.org/ansible-stable-2.9": "*" },
+  "yaml.trace.server": "verbose",
+
+	"yank.highlight.enable": true,
+	"yank.highlight.duration": 250
+}
+
+/* vim set ft=jsonc */

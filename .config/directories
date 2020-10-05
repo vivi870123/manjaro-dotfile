@@ -1,0 +1,13 @@
+# You can add comments to these files with #
+
+h   ${XDG_HOME:-$HOME}
+d   ${XDG_DOCUMENTS_DIR:-$HOME/Documents}
+D   ${XDG_DOWNLOAD_DIR:-$HOME/Downloads}
+M   ${XDG_MUSIC_DIR:-$HOME/Music}
+pp  ${XDG_PICTURES_DIR:-$HOME/Pictures}
+S   ${XDG_PICTURES_DIR:-$HOME/Sites}
+vv  ${XDG_VIDEOS_DIR:-$HOME/Videos}
+cf  ${XDG_CONFIG_HOME:-$HOME/.config}
+sc  ~/.local/bin
+cac ${XDG_CACHE_HOME:-$HOME/.cache}
+mn  /mnt

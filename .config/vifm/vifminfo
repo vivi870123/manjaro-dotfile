@@ -1,0 +1,190 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/chris/
+	..
+1592438294
+'a
+	/home/chris
+	Public
+1592469792
+'b
+	/home/chris/bin/
+	..
+1592438294
+'h
+	/home/chris/
+	..
+1592438294
+'v
+	/home/chris
+	Music
+1592468307
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l1,2
+r2
+
+# Left window history (oldest to newest):
+d/home/chris/Downloads
+	dotfile-master
+1
+d/home/chris/Downloads/dotfile-master
+	..
+0
+d/home/chris/Downloads
+	dotfile-master.zip
+2
+d/home/chris
+	Music
+4
+d/home/chris/Music
+	..
+0
+d/home/chris
+	Music
+4
+d/home
+	chris
+1
+d/
+	home
+4
+d/home
+	chris
+1
+d/home/chris
+	Music
+4
+d/home
+	chris
+1
+d/
+	mnt
+3
+d/home/chris
+	Documents
+2
+d/home/chris/Documents
+	..
+0
+d/home/chris
+	Downloads
+3
+d/home
+	chris
+1
+d/home/chris
+	Downloads
+3
+d/home
+	chris
+1
+d/home/chris
+	Documents
+2
+d/home/chris/Documents
+	..
+0
+d/home/chris
+	.config
+4
+d/home/chris/.config
+	..
+0
+d/home/chris
+	.config
+3
+d/home
+	chris
+1
+d/home/chris
+	Desktop
+1
+d/home
+	chris
+1
+d/home/chris
+	Downloads
+3
+d/home/chris/Downloads
+	torrents
+7
+d/home/chris/Downloads/torrents
+	www.Torrenting.com  -  Bellator 242 720p HEVC x265-MeGusta
+1
+d/home/chris/Downloads/torrents/www.Torrenting.com  -  Bellator 242 720p HEVC x265-MeGusta
+	Bellator.242.720p.HEVC.x265-MeGusta.mkv
+2
+d/home/chris/Downloads/torrents
+	www.SceneTime.com  -  Bellator 243 XviD-AFG
+2
+d/home/chris/Downloads/torrents/www.SceneTime.com  -  Bellator 243 XviD-AFG
+	Bellator.243.XviD-AFG.avi
+2
+d
+
+# Right window history (oldest to newest):
+D/home/chris
+	Pictures
+5
+D/home/chris/.config
+	wall.jpg
+12
+D/home/chris
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:cd ..
+:lsl
+:command
+:command 
+:! pwd
+:nohl
+:sort<c>
+:m
+:move
+:move!
+:dl
+:da
+:!da
+:!mpv
+:colo desert
+:colo g80
+:colo near-default
+:q
+
+# Search history (oldest to newest):
+/man
+/li
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

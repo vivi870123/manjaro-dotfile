@@ -1,0 +1,246 @@
+super + Return
+	$TERMINAL
+super + shift + Return
+	$TERMINAL -e bash ~/.config/vifm/scripts/vifmrun
+super + d
+	appmenu
+super + e
+	$TERMINAL -e ne
+super + m
+	$TERMINAL -e $MUSIC
+super + n
+	$TERMINAL -e newsboat
+## display clipboard contents
+super + c
+	dunstify -i ~/.config/appearance/icons/clipboard.png -u low -r 5 "$(xclip -selection clipboard -o)"
+super + s
+	$TERMINAL -e $PROCESS
+super + v
+	$TERMINAL -e $EDITOR -c VimwikiIndex
+super + shift + a
+	$TERMINAL -e $AUDIO
+super + shift + c
+	camtoggle
+super + shift + w
+	$TERMINAL -e nmtui
+super + w
+	$TERMINAL -e $BROWSER
+
+## select and edit config files
+super + shift + e
+	configmenu
+
+## spawn user manual
+super + question
+	zathura ~/README.md
+
+# screenshot tool
+super + shift + s
+	scrotmenu
+
+# Et cetera...
+# super + grave
+# 	dmenuunicode
+
+super + Scroll_Lock
+	killall screenkey || screenkey
+
+super + Insert
+	showclip
+
+super + shift + x
+	logoutmenu
+
+super + x
+	ifinstalled slock && ( slock & xset dpms force off ; mpc pause ; pauseallmpv )
+
+XF86Launch1
+	xset dpms force off
+XF86TouchpadToggle
+	(synclient | grep "TouchpadOff.*1" && synclient TouchpadOff=0) || synclient TouchpadOff=1
+XF86Touchpad{Off,On}
+	synclient TouchpadOff={1,0}
+XF86MonBrightness{Down,Up}
+	xbacklight {-,+} 10
+
+
+# Recording
+# Take screenshot
+Print
+	maim pic-full-$(date '+%y%m%d-%H%M-%S').png
+# Pick screenshot type
+shift + Print
+	maimpick
+# Print: Record audio or video; Del: kill recording
+super + Print
+	dmenurecord
+super + Delete
+	dmenurecord kill
+
+
+# Pause audio
+super + p
+	mpc toggle
+super + shift + p
+	mpc {play ; notify_currenttrack,pause ; dunstify -r 1 -u low -i ~/.config/appearance/icons/pause.png "Music Paused!"}
+# Changes to next/previous tracks
+super + {comma,period}
+	mpc {next,prev} && notify_currenttrack
+# Restart track
+super + shift + less
+	mpc seek 0%
+# Seek foward in song
+super + {_,shift +} bracketright
+	mpc seek +{10,60}
+# Seek backward in song
+super + {_,shift +} bracketleft
+	mpc seek -{10,60}
+# Increase volume
+super + {equal,plus}
+	pulsemixer --unmute ; pulsemixer --change-volume {+5,+15}
+# Decrease volume
+super {_,shift +} + minus
+	pulsemixer --unmute ; pulsemixer --change-volume {-5,-15}
+super + shift + m
+	pulsemixer --toggle-mute
+
+# Audiokeys
+XF86AudioMute
+	pulsemixer --toggle-mute
+XF86Audio{Raise,Lower}Volume
+	pulsemixer --unmute ; pulsemixer --change-volume {+,-}5
+XF86Audio{Next,Prev}
+	mpc {next,prev} && notify_currenttrack
+XF86Audio{Pause,Play,Stop}
+	mpc {play ; notify_currenttrack,pause ; dunstify -r 1 -u low -i ~/.config/appearance/icons/pause.png "Music Paused!"}
+XF86Audio{Rewind,Forward}
+	mpc seek {-,+}10
+XF86AudioRecord
+	dmenurecord
+XF86AudioMedia
+	st -e ncmpcpp
+
+XF86PowerOff
+	prompt "Shutdown computer?" "sudo -A shutdown -h now"
+XF86Calculator
+	$TERMINAL -e bc
+XF86Sleep
+	prompt 'Hibernate computer?' 'sudo -A zzz'
+XF86WWW
+	$BROWSER
+XF86DOS
+	$TERMINAL
+XF86ScreenSaver
+	mpc pause; pauseallmpv; i3lock -e -f -c 1d2021; xset dpms force off
+XF86TaskPane
+	$TERMINAL -e htop
+XF86Mail
+	$TERMINAL -e neomutt
+XF86MyComputer
+	$TERMINAL -e bash ~/.config/vifm/scripts/vifmrun
+
+
+
+# Function keys
+super + F1
+	bspc wm -r
+
+# F2 restarts either dwm or i3 and is bound in each.
+super + F2
+	bspc wm -r
+
+# Change display
+super + F3
+	displaymenu
+
+# Hibernate
+super + F4
+	prompt 'Hibernate computer?' 'sudo -A zzz -Z'
+
+super + F5 is unbound.
+
+# Start torrent daemon/open interface
+super + F6
+	torwrap
+
+# toggle torrent daemon
+super + F7
+	td-toggle
+
+
+# configure protonvpn
+super + F8
+    	vpnmenu
+
+# Mount a USB drive or Android device
+super + {F9,F10}
+	{mountmenu,unmountmenu}
+
+# close and kill
+super + {_,shift + }q
+	bspc node -{c,k}
+
+# alternate between the tiled and monocle layout
+super + f
+	bspc node -t {fullscreen, tiled}
+
+# swap the current node and the biggest local node
+super + space
+	bspc node -s biggest.local || bspc node -s next.local
+
+#
+# state/flags
+#
+super + shift + space
+	bspc node focused -t \~floating
+
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+super + {g,semicolon}
+	bspc desktop {prev,next}.occupied --focus
+super + {Prior,Next}
+	bspc desktop {prev,next}.occupied --focus
+super + {Tab,backslash}
+	bspc desktop last --focus
+
+# focus the older or newer node in the focus history
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} ^{1-9,10}
+
+# expand a window by moving one of its side outward
+super + shift + {y,u,i,o}
+	bspc node -z {right -20 0,bottom 0 20,bottom 0 -20,right 20
+# contract a window by moving one of its side inward
+
+# move a floating window
+super + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# Toggle gaps
+super + shift + d
+	bspc config window_gap {0,15}
+
+# Increase/descrease gap size
+super { ,+ shift }+ z
+	bspc config window_gap $(($(bspc config window_gap) {+,-} 3))
+
+# remove and restore polybar
+super + b
+	polybar-msg cmd toggle;
+
+XF86Launch1
+	xset dpms force off
+XF86TouchpadToggle
+	(synclient | grep "TouchpadOff.*1" && synclient TouchpadOff=0) || synclient TouchpadOff=1
+XF86Touchpad{Off,On}
+	synclient TouchpadOff={1,0}
+XF86MonBrightnessDown
+	xbacklight -dec 15
+XF86MonBrightnessUp
+	xbacklight -inc 15
+XF86PowerOff
+	prompt "Shutdown computer?" "sudo -A shutdown -h now"

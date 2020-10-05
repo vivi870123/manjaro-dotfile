@@ -1,0 +1,22 @@
+[Default Applications]
+x-scheme-handler/magnet=torrent.desktop;
+application/x-bittorrent=torrent.desktop;
+x-scheme-handler/mailto=google-chrome.desktop
+text/plain=text.desktop;
+text/x-shellscript=text.desktop;
+application/postscript=pdf.desktop;
+application/pdf=pdf.desktop;
+image/png=img.desktop
+image/jpeg=img.desktop;
+image/gif=img.desktop;
+application/rss+xml=rss.desktop
+x-scheme-handler/postman=Postman.desktop
+application/rss+xml=rss.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+x-scheme-handler/mailto=mail.desktop;
+x-scheme-handler/lbry=lbry.desktop
+video/x-matroska=video.desktop
+inode/directory=file.desktop
+
+[Added Associations]
+text/plain=nvim.desktop;vim.desktop;mousepad.desktop;

@@ -1,0 +1,1596 @@
+Jun 19 16:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 16:50 : avahi: Service 'Music Player @ mines' successfully established.
+Jun 19 16:50 : client: [0] opened from 127.0.0.1:56432
+Jun 19 16:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 16:52 : client: [0] opened from 127.0.0.1:56454
+Jun 19 16:52 : avahi: Service 'Music Player @ mines' successfully established.
+Jun 19 16:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 16:53 : avahi: Service 'Music Player @ mines' successfully established.
+Jun 19 16:53 : client: [0] opened from 127.0.0.1:56466
+Jun 19 16:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 16:54 : client: [0] opened from 127.0.0.1:56528
+Jun 19 16:54 : avahi: Service 'Music Player @ mines' successfully established.
+Jun 19 16:54 : client: [1] opened from 127.0.0.1:56532
+Jun 19 16:54 : client: [1] closed
+Jun 19 17:00 : client: [2] opened from 127.0.0.1:56760
+Jun 19 17:00 : update: added Deezer/The Weeknd - Blinding Lights.mp3
+Jun 19 17:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 17:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 17:00 : client: [2] closed
+Jun 19 17:01 : client: [3] opened from 127.0.0.1:56768
+Jun 19 17:01 : client: [3] closed
+Jun 19 17:01 : client: [4] opened from 127.0.0.1:56772
+Jun 19 17:01 : client: [4] closed
+Jun 19 17:02 : client: [5] opened from 127.0.0.1:56778
+Jun 19 17:02 : client: [6] opened from 127.0.0.1:56782
+Jun 19 17:02 : client: [6] closed
+Jun 19 17:02 : client: [7] opened from 127.0.0.1:56786
+Jun 19 17:02 : client: [7] closed
+Jun 19 17:02 : client: [8] opened from 127.0.0.1:56790
+Jun 19 17:02 : client: [8] closed
+Jun 19 17:02 : client: [9] opened from 127.0.0.1:56794
+Jun 19 17:02 : client: [9] closed
+Jun 19 17:03 : client: [10] opened from 127.0.0.1:56798
+Jun 19 17:03 : client: [10] closed
+Jun 19 17:03 : client: [11] opened from 127.0.0.1:56802
+Jun 19 17:03 : client: [11] closed
+Jun 19 17:03 : client: [12] opened from 127.0.0.1:56806
+Jun 19 17:03 : client: [12] closed
+Jun 19 17:03 : client: [13] opened from 127.0.0.1:56810
+Jun 19 17:03 : client: [13] closed
+Jun 19 17:03 : client: [5] closed
+Jun 19 17:03 : client: [14] opened from 127.0.0.1:56818
+Jun 19 17:03 : client: [15] opened from 127.0.0.1:56822
+Jun 19 17:03 : client: [15] closed
+Jun 19 17:03 : client: [16] opened from 127.0.0.1:56826
+Jun 19 17:03 : client: [16] closed
+Jun 19 17:04 : client: [14] closed
+Jun 19 17:04 : client: [17] opened from 127.0.0.1:56830
+Jun 19 17:04 : client: [17] closed
+Jun 19 17:04 : client: [18] opened from 127.0.0.1:56834
+Jun 19 17:04 : client: [18] closed
+Jun 19 17:04 : client: [19] opened from 127.0.0.1:56838
+Jun 19 17:04 : client: [19] closed
+Jun 19 17:04 : client: [20] opened from 127.0.0.1:56842
+Jun 19 17:04 : client: [20] closed
+Jun 19 17:04 : client: [21] opened from 127.0.0.1:56846
+Jun 19 17:04 : client: [21] closed
+Jun 19 17:04 : client: [22] opened from 127.0.0.1:56850
+Jun 19 17:04 : client: [22] closed
+Jun 19 17:04 : client: [23] opened from 127.0.0.1:56854
+Jun 19 17:04 : client: [23] closed
+Jun 19 17:04 : client: [24] opened from 127.0.0.1:56858
+Jun 19 17:04 : client: [24] closed
+Jun 19 17:04 : client: [25] opened from 127.0.0.1:56862
+Jun 19 17:04 : client: [25] closed
+Jun 19 17:04 : client: [26] opened from 127.0.0.1:56866
+Jun 19 17:04 : client: [26] closed
+Jun 19 17:04 : client: [27] opened from 127.0.0.1:56870
+Jun 19 17:04 : client: [27] closed
+Jun 19 17:12 : client: [0] closed
+Jun 19 17:12 : client: [28] opened from 127.0.0.1:56976
+Jun 19 17:12 : client: [29] opened from 127.0.0.1:56984
+Jun 19 17:12 : client: [29] closed
+Jun 19 17:12 : client: [30] opened from 127.0.0.1:56988
+Jun 19 17:12 : client: [30] closed
+Jun 19 17:12 : client: [31] opened from 127.0.0.1:56992
+Jun 19 17:12 : client: [32] opened from 127.0.0.1:56996
+Jun 19 17:12 : client: [32] closed
+Jun 19 17:12 : client: [33] opened from 127.0.0.1:57000
+Jun 19 17:12 : client: [33] closed
+Jun 19 17:12 : client: [34] opened from 127.0.0.1:57004
+Jun 19 17:12 : client: [34] closed
+Jun 19 17:12 : client: [35] opened from 127.0.0.1:57008
+Jun 19 17:12 : client: [35] closed
+Jun 19 17:12 : client: [31] closed
+Jun 19 17:16 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Jun 19 17:35 : client: [36] opened from 127.0.0.1:57342
+Jun 19 17:35 : client: [36] closed
+Jun 19 17:48 : client: [28] closed
+Jun 19 17:48 : client: [37] opened from 127.0.0.1:57842
+Jun 19 17:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 17:48 : client: [0] opened from 127.0.0.1:41376
+Jun 19 17:48 : avahi: Service 'Music Player @ mines' successfully established.
+Jun 19 17:49 : client: [1] opened from 127.0.0.1:41386
+Jun 19 17:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 17:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 19 17:49 : client: [2] opened from 127.0.0.1:41390
+Jun 19 17:49 : client: [2] closed
+Jun 19 17:49 : client: [3] opened from 127.0.0.1:41394
+Jun 19 17:49 : client: [3] closed
+Jun 19 17:49 : client: [4] opened from 127.0.0.1:41398
+Jun 19 17:49 : client: [4] closed
+Jun 19 17:49 : client: [5] opened from 127.0.0.1:41402
+Jun 19 17:49 : client: [5] closed
+Jun 19 17:49 : client: [6] opened from 127.0.0.1:41406
+Jun 19 17:49 : client: [6] closed
+Jun 19 17:49 : client: [7] opened from 127.0.0.1:41410
+Jun 19 17:49 : client: [7] closed
+Jun 19 17:49 : client: [8] opened from 127.0.0.1:41414
+Jun 19 17:49 : client: [8] closed
+Jun 19 17:50 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Jun 19 17:50 : exception: Not playing
+Jun 19 17:50 : client: [9] opened from 127.0.0.1:41418
+Jun 19 17:50 : client: [9] closed
+Jun 19 17:50 : client: [10] opened from 127.0.0.1:41422
+Jun 19 17:50 : client: [10] closed
+Jun 19 17:51 : client: [11] opened from 127.0.0.1:41426
+Jun 19 17:51 : client: [11] closed
+Jun 19 17:51 : client: [12] opened from 127.0.0.1:41430
+Jun 19 17:51 : client: [12] closed
+Jun 19 17:51 : client: [13] opened from 127.0.0.1:41434
+Jun 19 17:51 : client: [13] closed
+Jun 19 17:51 : client: [14] opened from 127.0.0.1:41438
+Jun 19 17:51 : client: [14] closed
+Jun 19 17:51 : client: [15] opened from 127.0.0.1:41442
+Jun 19 17:51 : client: [15] closed
+Jun 19 17:51 : client: [16] opened from 127.0.0.1:41446
+Jun 19 17:51 : client: [16] closed
+Jun 19 17:51 : client: [17] opened from 127.0.0.1:41450
+Jun 19 17:51 : client: [17] closed
+Jun 19 17:51 : client: [18] opened from 127.0.0.1:41454
+Jun 19 17:51 : client: [18] closed
+Jun 19 17:51 : client: [19] opened from 127.0.0.1:41458
+Jun 19 17:51 : client: [20] opened from 127.0.0.1:41462
+Jun 19 17:51 : client: [19] closed
+Jun 19 17:51 : client: [20] closed
+Jun 19 17:51 : client: [21] opened from 127.0.0.1:41466
+Jun 19 17:51 : client: [21] closed
+Jun 19 17:51 : client: [22] opened from 127.0.0.1:41470
+Jun 19 17:51 : client: [22] closed
+Jun 19 17:51 : client: [23] opened from 127.0.0.1:41474
+Jun 19 17:51 : client: [23] closed
+Jun 19 17:51 : client: [24] opened from 127.0.0.1:41478
+Jun 19 17:51 : client: [24] closed
+Jun 19 17:51 : client: [25] opened from 127.0.0.1:41482
+Jun 19 17:51 : client: [25] closed
+Jun 19 17:51 : client: [26] opened from 127.0.0.1:41486
+Jun 19 17:51 : client: [26] closed
+Jun 19 17:51 : client: [27] opened from 127.0.0.1:41490
+Jun 19 17:51 : client: [27] closed
+Jun 19 17:54 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Jun 19 17:54 : client: [28] opened from 127.0.0.1:41498
+Jun 19 17:54 : client: [28] closed
+Jun 19 17:54 : client: [29] opened from 127.0.0.1:41502
+Jun 19 17:54 : client: [29] closed
+Jun 19 17:57 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Jun 19 17:57 : client: [30] opened from 127.0.0.1:41506
+Jun 19 17:57 : client: [30] closed
+Jun 19 17:57 : client: [31] opened from 127.0.0.1:41510
+Jun 19 17:57 : client: [31] closed
+Jun 19 17:59 : update: added Deezer/Midas the Jagaban - Come We Bill Ehh.mp3
+Jun 19 17:59 : client: [32] opened from 127.0.0.1:41630
+Jun 19 17:59 : client: [32] closed
+Jun 19 17:59 : client: [33] opened from 127.0.0.1:41634
+Jun 19 17:59 : client: [33] closed
+Jun 19 17:59 : client: [1] closed
+Jun 19 18:00 : client: [34] opened from 127.0.0.1:41638
+Jun 19 18:00 : client: [35] opened from 127.0.0.1:41642
+Jun 19 18:00 : client: [35] closed
+Jun 19 18:00 : client: [36] opened from 127.0.0.1:41646
+Jun 19 18:00 : client: [36] closed
+Jun 19 18:00 : client: [34] closed
+Jun 19 18:00 : client: [37] opened from 127.0.0.1:41650
+Jun 19 18:00 : client: [38] opened from 127.0.0.1:41654
+Jun 19 18:00 : client: [38] closed
+Jun 19 18:00 : client: [39] opened from 127.0.0.1:41658
+Jun 19 18:00 : client: [39] closed
+Jun 19 18:00 : client: [37] closed
+Jun 19 18:01 : client: [40] opened from 127.0.0.1:41662
+Jun 19 18:01 : client: [40] closed
+Jun 19 18:01 : client: [41] opened from 127.0.0.1:41666
+Jun 19 18:01 : client: [41] closed
+Jun 19 18:02 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Jun 19 18:03 : client: [42] opened from 127.0.0.1:41744
+Jun 19 18:03 : client: [42] closed
+Jun 19 18:05 : client: [43] opened from 127.0.0.1:41752
+Jun 19 18:05 : client: [43] closed
+Jun 19 18:05 : client: [44] opened from 127.0.0.1:41756
+Jun 19 18:05 : client: [44] closed
+Jun 19 18:05 : client: [45] opened from 127.0.0.1:41760
+Jun 19 18:05 : client: [45] closed
+Jun 19 18:06 : client: [46] opened from 127.0.0.1:41764
+Jun 19 18:06 : client: [46] closed
+Jul 29 08:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 08:42 : client: [0] opened from 127.0.0.1:38912
+Jul 29 08:42 : avahi: Service 'Music Player @ mines' successfully established.
+Jul 30 09:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 30 09:07 : client: [0] opened from 127.0.0.1:41804
+Jul 30 09:07 : avahi: Service 'Music Player @ mines' successfully established.
+Jul 31 07:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 31 07:19 : client: [0] opened from 127.0.0.1:59080
+Jul 31 07:19 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 01 23:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 01 23:58 : client: [0] opened from 127.0.0.1:53574
+Aug 01 23:58 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 03 06:54 : client: [1] opened from 127.0.0.1:57722
+Aug 03 06:54 : exception: Not playing
+Aug 03 06:54 : client: [1] closed
+Aug 05 09:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 09:02 : client: [0] opened from 127.0.0.1:54242
+Aug 05 09:02 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 07 07:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 07:04 : client: [0] opened from 127.0.0.1:35582
+Aug 07 07:04 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 07 07:07 : client: [0] closed
+Aug 07 07:07 : client: [1] opened from 127.0.0.1:35786
+Aug 07 20:28 : client: [2] opened from 127.0.0.1:37426
+Aug 07 20:30 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:30 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:30 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:30 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 20:34 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 20:34 : client: [2] closed
+Aug 07 21:29 : client: [3] opened from 127.0.0.1:37670
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 21:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 21:29 : client: [3] closed
+Aug 07 21:29 : client: [4] opened from 127.0.0.1:37674
+Aug 07 21:29 : client: [4] closed
+Aug 07 21:29 : client: [5] opened from 127.0.0.1:37678
+Aug 07 21:29 : client: [5] closed
+Aug 07 21:30 : client: [6] opened from 127.0.0.1:37684
+Aug 07 21:30 : client: [6] closed
+Aug 07 21:30 : client: [7] opened from 127.0.0.1:37690
+Aug 07 21:30 : client: [7] closed
+Aug 07 21:30 : client: [8] opened from 127.0.0.1:37694
+Aug 07 21:30 : client: [8] closed
+Aug 07 21:30 : client: [9] opened from 127.0.0.1:37698
+Aug 07 21:30 : client: [9] closed
+Aug 07 21:30 : client: [10] opened from 127.0.0.1:37702
+Aug 07 21:30 : client: [10] closed
+Aug 07 21:30 : client: [11] opened from 127.0.0.1:37706
+Aug 07 21:30 : client: [11] closed
+Aug 07 22:34 : client: [12] opened from 127.0.0.1:38054
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 07 22:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 07 22:37 : client: [12] closed
+Aug 08 00:36 : client: [13] opened from 127.0.0.1:39634
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 00:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 00:36 : client: [13] closed
+Aug 08 00:36 : client: [14] opened from 127.0.0.1:39638
+Aug 08 00:36 : client: [14] closed
+Aug 08 00:36 : client: [15] opened from 127.0.0.1:39642
+Aug 08 00:36 : client: [15] closed
+Aug 08 00:47 : client: [16] opened from 127.0.0.1:42850
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [16] closed
+Aug 08 00:47 : client: [17] opened from 127.0.0.1:42862
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [17] closed
+Aug 08 00:47 : client: [18] opened from 127.0.0.1:42866
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [18] closed
+Aug 08 00:47 : client: [19] opened from 127.0.0.1:42878
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [19] closed
+Aug 08 00:47 : client: [20] opened from 127.0.0.1:42882
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [20] closed
+Aug 08 00:47 : client: [21] opened from 127.0.0.1:42886
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [21] closed
+Aug 08 00:47 : client: [22] opened from 127.0.0.1:42890
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [22] closed
+Aug 08 00:47 : client: [23] opened from 127.0.0.1:42894
+Aug 08 00:47 : exception: Not playing
+Aug 08 00:47 : client: [23] closed
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/19 - CHAMPION.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/08 - CALL IT EVEN.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/10 - GO FIRST.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/07 - TROUBLE.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/14 - TALK ABOUT IT.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/24 - ROCKSTAR (BLM REMIX).mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/06 - GO.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/05 - NO DRIBBLE.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/09 - TLC.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/12 - PICK UP.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/21 - BLAME IT ON BABY.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/01 - BILLBOARD BABY.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/22 - NASTY.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/03 - PEEP HOLE.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/15 - SAD SH_T.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/18 - JUMP.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/17 - ROCKSTAR.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/20 - DROP.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/23 - AMAZING GRACE.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/04 - BLIND.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/13 - LIGHTSKIN SH_T.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/02 - PRACTICE.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/16 - FIND MY WAY.mp3
+Aug 08 01:51 : update: added deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/11 - CAN'T STOP.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/03 - the last great american dynasty.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/09 - this is me trying.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/12 - mad woman.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/10 - illicit affairs.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/02 - cardigan.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/06 - mirrorball.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/14 - betty.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/13 - epiphany.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/08 - august.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/07 - seven.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/16 - hoax.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/04 - exile.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/11 - invisible string.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/15 - peace.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/01 - the 1.mp3
+Aug 08 01:52 : update: added deezloader/Taylor Swift - folklore/05 - my tears ricochet.mp3
+Aug 08 01:53 : update: added deezloader/Taylor Swift - Red.mp3
+Aug 08 01:53 : update: added deezloader/Taylor Swift - Blank Space.mp3
+Aug 08 01:53 : update: added deezloader/Taylor Swift - Style.mp3
+Aug 08 01:53 : update: added deezloader/Taylor Swift - Bad Blood.mp3
+Aug 08 01:53 : update: added deezloader/Taylor Swift - Shake It Off.mp3
+Aug 08 01:54 : update: added deezloader/Taylor Swift - Love Story.mp3
+Aug 08 01:54 : update: added deezloader/Sean Paul - Calling On Me.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/11 - Jacques.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/14 - Equally Lost.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/20 - Sweettalk my Heart (Team Salut Remix).mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/05 - Gritty Pretty (Intro).mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/09 - Stay Over.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/21 - Sweettalk my Heart (Live At VEVO).mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/16 - Shifted.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/12 - Mateo.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/04 - Passion and Pain Taste the Same When I’m Weak.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/15 - Really don’t like u.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/17 - Mistaken.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/01 - sadder badder cooler.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/08 - Sweettalk my Heart.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/02 - Bikini Porn.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/19 - Are U gonna tell her_ (Heavy Baile Remix).mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/13 - Come Undone.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/18 - Anywhere u go.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/07 - Bad as the Boys.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/06 - Glad He's Gone.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/10 - Are U gonna tell her_.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/03 - I'm Coming.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/22 - Mistaken (Live at VEVO).mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/01 - LIGHT BEAMS.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/07 - bitches.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/14 - hey you got drugs_.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/02 - disco tits.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/12 - 9th of october.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/11 - struggle.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/05 - dont ask dont tell.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/13 - bad days.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/06 - stranger.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/10 - cycles.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/09 - romantics.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/03 - shedontknowbutsheknows.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/04 - shivering gold.mp3
+Aug 08 01:55 : update: added deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/08 - PITCH BLACK.mp3
+Aug 08 01:55 : update: added deezloader/Love Regenerator - Moving/02 - Don't You Want Me [edit].mp3
+Aug 08 01:55 : update: added deezloader/Love Regenerator - Moving/04 - Don't You Want Me.mp3
+Aug 08 01:55 : update: added deezloader/Love Regenerator - Moving/03 - Moving.mp3
+Aug 08 01:55 : update: added deezloader/Love Regenerator - Moving/01 - Moving [edit].mp3
+Aug 08 01:56 : update: added deezloader/Tainy - Agua (Music From _Sponge On The Run_ Movie).mp3
+Aug 08 02:16 : client: [1] closed
+Aug 08 02:16 : client: [24] opened from 127.0.0.1:45484
+Aug 08 02:20 : client: [25] opened from 127.0.0.1:45816
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : client: [25] closed
+Aug 08 02:20 : client: [26] opened from 127.0.0.1:45820
+Aug 08 02:20 : client: [26] closed
+Aug 08 02:20 : client: [27] opened from 127.0.0.1:45824
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : client: [27] closed
+Aug 08 02:20 : client: [28] opened from 127.0.0.1:45828
+Aug 08 02:20 : client: [28] closed
+Aug 08 02:20 : client: [29] opened from 127.0.0.1:45832
+Aug 08 02:20 : client: [29] closed
+Aug 08 02:20 : client: [30] opened from 127.0.0.1:45836
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : client: [30] closed
+Aug 08 02:20 : client: [31] opened from 127.0.0.1:45840
+Aug 08 02:20 : client: [31] closed
+Aug 08 02:20 : client: [32] opened from 127.0.0.1:45844
+Aug 08 02:20 : client: [32] closed
+Aug 08 02:20 : client: [33] opened from 127.0.0.1:45848
+Aug 08 02:20 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:20 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:20 : client: [33] closed
+Aug 08 02:20 : client: [34] opened from 127.0.0.1:45852
+Aug 08 02:20 : client: [34] closed
+Aug 08 02:20 : client: [35] opened from 127.0.0.1:45858
+Aug 08 02:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 02:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 02:20 : client: [36] opened from 127.0.0.1:45864
+Aug 08 02:20 : client: [36] closed
+Aug 08 02:20 : client: [37] opened from 127.0.0.1:45868
+Aug 08 02:20 : client: [37] closed
+Aug 08 02:20 : client: [38] opened from 127.0.0.1:45872
+Aug 08 02:20 : client: [38] closed
+Aug 08 02:21 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Aug 08 02:21 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:21 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:21 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:21 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 02:21 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 08 02:21 : client: [39] opened from 127.0.0.1:45876
+Aug 08 02:21 : client: [39] closed
+Aug 08 02:21 : client: [40] opened from 127.0.0.1:45880
+Aug 08 02:21 : client: [41] opened from 127.0.0.1:45884
+Aug 08 02:21 : client: [40] closed
+Aug 08 02:21 : client: [41] closed
+Aug 08 02:21 : client: [42] opened from 127.0.0.1:45888
+Aug 08 02:21 : client: [42] closed
+Aug 08 02:21 : client: [43] opened from 127.0.0.1:45892
+Aug 08 02:21 : client: [43] closed
+Aug 08 02:21 : client: [44] opened from 127.0.0.1:45896
+Aug 08 02:21 : client: [44] closed
+Aug 08 02:21 : client: [45] opened from 127.0.0.1:45900
+Aug 08 02:21 : client: [45] closed
+Aug 08 02:21 : client: [46] opened from 127.0.0.1:45904
+Aug 08 02:21 : client: [46] closed
+Aug 08 02:22 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/18 - Anywhere u go.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:23 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 08 02:23 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 08 02:24 : client: [47] opened from 127.0.0.1:45966
+Aug 08 02:24 : client: [47] closed
+Aug 08 02:24 : client: [48] opened from 127.0.0.1:45970
+Aug 08 02:24 : client: [48] closed
+Aug 08 02:24 : client: [49] opened from 127.0.0.1:45974
+Aug 08 02:24 : client: [49] closed
+Aug 08 02:28 : player: played "deezloader/Taylor Swift - Love Story.mp3"
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/11 - Hit.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/13 - Nitolee.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/03 - Pamela.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/10 - Proper.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/09 - Ogede.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/12 - CVM.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/04 - Special Love.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/08 - Hit (ADM Remix).mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/05 - Aminah.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/06 - My Baby.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/14 - Ogede (Instrumental).mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/07 - Riddim.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/01 - African Time.mp3
+Aug 08 02:28 : update: added deezloader/Krizbeatz - African Time/02 - Abi.mp3
+Aug 08 02:28 : update: added deezloader/Yung L - Eve Bounce (Remix).mp3
+Aug 08 02:28 : update: added deezloader/Wizkid - Smile.mp3
+Aug 08 02:28 : update: added deezloader/Akon - Escape.mp3
+Aug 08 02:29 : update: added deezloader/Niniola - Addicted/01 - Addicted.mp3
+Aug 08 02:29 : update: added deezloader/Niniola - Addicted/02 - Addicted (Extended Version).mp3
+Aug 08 02:29 : update: added deezloader/Niniola - Fantasy.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/09 - Umaqondana.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/06 - Lovers & Best Friends.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/05 - Askies (I'm Sorry).mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/01 - Okhokho.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/07 - Buyela Ekhaya.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/02 - Uthando Lwangempela.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/04 - Goodbye.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/03 - Egoli.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/11 - Ithemba.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/10 - Bafazi.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/08 - Ngize Ngifike.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/14 - Sikelela.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/12 - Ngixolele.mp3
+Aug 08 02:29 : update: added deezloader/Azana - Ingoma/13 - Your Love.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/10 - Ginger Me.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/03 - Corny.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/04 - Dumebi.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/09 - American Love.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/08 - Woman.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/06 - Lady.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/01 - Iron Man.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/05 - Why.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/07 - Alien.mp3
+Aug 08 02:30 : update: added deezloader/Rema - Rema Compilation/02 - Beamer (Bad Boys).mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/03 - Boys Are Bad.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/11 - Fvck You.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/16 - Pipa.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/15 - Chana.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/02 - Ada.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/13 - Find A Bae.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/12 - One Day.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/17 - Hook.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/09 - Chek.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/14 - Padi.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/01 - Jaho.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/07 - Need Somebody.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/08 - Tempted To Steal.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/06 - Pak 'n' Go.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/10 - Yapa.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/04 - We Wan Comot.mp3
+Aug 08 02:30 : update: added deezloader/Kizz Daniel - King Of Love/05 - Aii.mp3
+Aug 08 02:30 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Aug 08 02:31 : client: [50] opened from 127.0.0.1:46712
+Aug 08 02:31 : client: [50] closed
+Aug 08 02:31 : client: [51] opened from 127.0.0.1:46716
+Aug 08 02:31 : client: [51] closed
+Aug 08 02:31 : client: [52] opened from 127.0.0.1:46720
+Aug 08 02:31 : client: [52] closed
+Aug 08 02:31 : client: [53] opened from 127.0.0.1:46724
+Aug 08 02:31 : client: [53] closed
+Aug 08 02:31 : client: [54] opened from 127.0.0.1:46728
+Aug 08 02:31 : client: [54] closed
+Aug 08 02:31 : client: [55] opened from 127.0.0.1:46732
+Aug 08 02:31 : client: [55] closed
+Aug 08 02:31 : client: [56] opened from 127.0.0.1:46736
+Aug 08 02:31 : client: [56] closed
+Aug 08 02:31 : client: [57] opened from 127.0.0.1:46740
+Aug 08 02:31 : client: [57] closed
+Aug 08 02:31 : client: [35] closed
+Aug 08 02:38 : update: added deezloader/Chris Brown - Big Slimes.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Undrunk.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - No Such Thing.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Stolen.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - She Bumped Her Head.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - I Ain't Tryin'.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Go Crazy.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Say You Love Me.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - City Girls.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Trap Back.mp3
+Aug 08 02:38 : update: added deezloader/Young Thug - Help Me Breathe.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - I Got Time.mp3
+Aug 08 02:38 : update: added deezloader/Chris Brown - Animal.mp3
+Aug 08 02:39 : update: added deezloader/Justin Timberlake - CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's _TROLLS_).mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/08 - On The Road.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/13 - Internet.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/17 - Wow.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/07 - Die For Me.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/10 - I'm Gonna Be.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/04 - Allergic.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/11 - Staring At The Sun.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/09 - Take What You Want.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/06 - Circles.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/01 - Hollywood's Bleeding.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/14 - Goodbyes.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/16 - I Know.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/05 - A Thousand Bad Times.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/15 - Myself.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/03 - Enemies.mp3
+Aug 08 02:39 : update: added deezloader/Post Malone - Hollywood's Bleeding/02 - Saint-Tropez.mp3
+Aug 08 02:41 : update: added deezloader/Koffee - Lockdown.mp3
+Aug 08 02:41 : update: added deezloader/Koffee - Pressure.mp3
+Aug 08 02:41 : update: added deezloader/Skillibeng - Mr. Universe.mp3
+Aug 08 02:41 : update: added deezloader/Dexta Daps - Breaking News.mp3
+Aug 08 02:41 : update: added deezloader/Chronixx - COOL AS THE BREEZE_FRIDAY.mp3
+Aug 08 02:41 : update: added deezloader/A$AP Ferg - Move Ya Hips.mp3
+Aug 08 02:41 : update: added deezloader/NEFFEX - Fight Back.mp3
+Aug 08 02:41 : update: added deezloader/Kranium - Gal Policy.mp3
+Aug 08 02:42 : update: added deezloader/Shenseea - Rude Gyal.mp3
+Aug 08 02:42 : update: added deezloader/Shenseea - Bad Habit.mp3
+Aug 08 02:42 : update: added deezloader/Shenseea - Wasabi.mp3
+Aug 08 02:42 : update: added deezloader/DJ Frass - Good Comfort.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/38 - Boss L.A - Lollipop.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/02 - Samza - Wi Jonkshon.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/24 - Drizilik - Pop Collar.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/26 - Drizilik - Fvck You.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/32 - Osusu - Time (feat. Hildur, Drizilik, Mohammed Kamara & Mark Crown).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/27 - DJ Rampage 232 - It Issa Goal (feat. Drizilik & Shadow Boxxer).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/22 - Drizilik - Just in Case.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/43 - Johnny Drille - Finding Efe.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/37 - Boss L.A - Intro (Leh Dem Talk).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/15 - Drizilik - Yu Fil Se Na Fulish.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/14 - Drizilik - Shukubly.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/13 - Samza - Salone Gal.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/34 - Emmerson - Secure.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/20 - Drizilik - Kɔna Yai.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/16 - Drizilik - Di Chif I Ship I Sup I Swit.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/03 - Samza - Ar Tyre Sef.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/19 - Drizilik - Chuk Chuk Plɔm.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/12 - Samza - How U See Am.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/33 - Osusu - Want U to Kno (feat. Drizilik & Loah).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/05 - Samza - Oba D Wata.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/17 - Drizilik - Aw fo Du.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/40 - Boss L.A - Brand New.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/35 - Emmerson - Tell God Tenki.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/01 - Samza - Me Yone Day.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/41 - Boss L.A - Still Dae Waka Lek.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/09 - Samza - Trocki.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/28 - Osusu - Hustlin' (feat. Drizilik, Cell7, Loah, Mark Crown & Sam Wheat).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/30 - Osusu - Work Hard (feat. Emma, Cell7, Lover Boy & Brother Portrait).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/04 - Samza - Die nor Dae Notice.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/08 - Samza - Respect.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/07 - Samza - Mass Am.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/18 - Drizilik - Aw a Lef Os.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/36 - Boss L.A - Masaka.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/39 - Boss L.A - One Thing.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/29 - Osusu - Nathanial John (feat. Drizilik, Zainab & Mohammed Kamara).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/21 - Drizilik - Posin.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/31 - Osusu - Ol Mi Baby (feat. Brother Portrait, Drizilik, Zainab & Logi Pedro).mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/42 - FINNEAS - Let's Fall in Love for the Night.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/11 - Samza - Starminna.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/23 - Drizilik - This Is Sierra Leone.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/06 - Samza - Frustration.mp3
+Aug 08 02:44 : update: added deezloader/Salone Jamz/10 - Samza - Gud Neyba.mp3
+Aug 08 02:45 : client: [58] opened from 127.0.0.1:47892
+Aug 08 02:46 : client: [59] opened from 127.0.0.1:47906
+Aug 08 02:46 : client: [59] closed
+Aug 08 02:46 : client: [60] opened from 127.0.0.1:47910
+Aug 08 02:46 : client: [60] closed
+Aug 08 02:47 : client: [61] opened from 127.0.0.1:47914
+Aug 08 02:47 : client: [61] closed
+Aug 08 02:47 : client: [62] opened from 127.0.0.1:47918
+Aug 08 02:47 : client: [62] closed
+Aug 08 02:47 : client: [63] opened from 127.0.0.1:47922
+Aug 08 02:47 : client: [63] closed
+Aug 08 02:47 : client: [64] opened from 127.0.0.1:47926
+Aug 08 02:47 : client: [64] closed
+Aug 08 02:47 : client: [65] opened from 127.0.0.1:47930
+Aug 08 02:47 : client: [65] closed
+Aug 08 02:47 : client: [66] opened from 127.0.0.1:47934
+Aug 08 02:47 : client: [66] closed
+Aug 08 02:47 : client: [67] opened from 127.0.0.1:47938
+Aug 08 02:47 : client: [67] closed
+Aug 08 02:47 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Aug 08 02:56 : client: [58] closed
+Aug 09 00:49 : client: [24] closed
+Aug 09 00:49 : client: [68] opened from 127.0.0.1:50478
+Aug 09 16:12 : client: [69] opened from 127.0.0.1:51862
+Aug 09 16:12 : client: [69] closed
+Aug 09 16:12 : client: [70] opened from 127.0.0.1:51866
+Aug 09 16:12 : client: [70] closed
+Aug 09 16:12 : client: [71] opened from 127.0.0.1:51870
+Aug 09 16:12 : client: [71] closed
+Aug 09 16:12 : client: [72] opened from 127.0.0.1:51874
+Aug 09 16:12 : client: [72] closed
+Aug 09 19:04 : client: [68] closed
+Aug 09 19:04 : client: [73] opened from 127.0.0.1:51962
+Aug 11 07:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 07:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 07:03 : client: [0] opened from 127.0.0.1:46608
+Aug 11 07:03 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 12 06:42 : client: [1] opened from 127.0.0.1:48362
+Aug 12 06:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 06:42 : client: [1] closed
+Aug 12 06:42 : client: [2] opened from 127.0.0.1:48366
+Aug 12 06:42 : client: [2] closed
+Aug 12 06:42 : client: [3] opened from 127.0.0.1:48370
+Aug 12 06:42 : client: [3] closed
+Aug 12 06:42 : client: [4] opened from 127.0.0.1:48374
+Aug 12 06:42 : client: [4] closed
+Aug 12 07:16 : client: [5] opened from 127.0.0.1:48944
+Aug 12 07:16 : client: [5] closed
+Aug 12 07:16 : client: [6] opened from 127.0.0.1:48948
+Aug 12 07:16 : client: [6] closed
+Aug 12 07:17 : player: played "deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3"
+Aug 12 07:25 : client: [7] opened from 127.0.0.1:49332
+Aug 12 07:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:29 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/18 - Anywhere u go.mp3"
+Aug 12 07:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 12 07:29 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:29 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 12 07:29 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:29 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:33 : player: played "deezloader/Taylor Swift - Blank Space.mp3"
+Aug 12 07:35 : client: [8] opened from 127.0.0.1:49352
+Aug 12 07:35 : client: [8] closed
+Aug 12 07:35 : client: [9] opened from 127.0.0.1:49356
+Aug 12 07:35 : client: [9] closed
+Aug 12 07:35 : client: [10] opened from 127.0.0.1:49360
+Aug 12 07:35 : client: [10] closed
+Aug 12 07:35 : client: [11] opened from 127.0.0.1:49364
+Aug 12 07:35 : client: [11] closed
+Aug 12 07:35 : client: [12] opened from 127.0.0.1:49368
+Aug 12 07:35 : client: [12] closed
+Aug 12 07:35 : client: [13] opened from 127.0.0.1:49372
+Aug 12 07:35 : client: [13] closed
+Aug 12 07:35 : client: [14] opened from 127.0.0.1:49376
+Aug 12 07:35 : client: [14] closed
+Aug 12 07:36 : client: [15] opened from 127.0.0.1:49380
+Aug 12 07:36 : client: [15] closed
+Aug 12 07:36 : client: [16] opened from 127.0.0.1:49384
+Aug 12 07:36 : client: [16] closed
+Aug 12 07:36 : client: [17] opened from 127.0.0.1:49388
+Aug 12 07:36 : client: [17] closed
+Aug 12 07:36 : client: [18] opened from 127.0.0.1:49392
+Aug 12 07:36 : client: [18] closed
+Aug 12 07:36 : client: [19] opened from 127.0.0.1:49396
+Aug 12 07:36 : client: [19] closed
+Aug 12 07:36 : client: [20] opened from 127.0.0.1:49400
+Aug 12 07:36 : client: [20] closed
+Aug 12 07:36 : client: [21] opened from 127.0.0.1:49404
+Aug 12 07:36 : client: [21] closed
+Aug 12 07:36 : client: [22] opened from 127.0.0.1:49408
+Aug 12 07:36 : client: [22] closed
+Aug 12 07:36 : client: [23] opened from 127.0.0.1:49412
+Aug 12 07:36 : client: [23] closed
+Aug 12 07:36 : client: [24] opened from 127.0.0.1:49416
+Aug 12 07:36 : client: [24] closed
+Aug 12 07:36 : client: [25] opened from 127.0.0.1:49420
+Aug 12 07:36 : client: [25] closed
+Aug 12 07:36 : client: [26] opened from 127.0.0.1:49424
+Aug 12 07:36 : client: [26] closed
+Aug 12 07:36 : client: [27] opened from 127.0.0.1:49428
+Aug 12 07:36 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:36 : client: [27] closed
+Aug 12 07:36 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/18 - Anywhere u go.mp3"
+Aug 12 07:36 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 12 07:36 : client: [28] opened from 127.0.0.1:49432
+Aug 12 07:36 : client: [28] closed
+Aug 12 07:36 : client: [29] opened from 127.0.0.1:49436
+Aug 12 07:36 : client: [29] closed
+Aug 12 07:36 : client: [30] opened from 127.0.0.1:49440
+Aug 12 07:36 : client: [30] closed
+Aug 12 07:36 : client: [31] opened from 127.0.0.1:49444
+Aug 12 07:36 : client: [31] closed
+Aug 12 07:36 : client: [32] opened from 127.0.0.1:49450
+Aug 12 07:36 : client: [32] closed
+Aug 12 07:36 : client: [33] opened from 127.0.0.1:49458
+Aug 12 07:36 : client: [33] closed
+Aug 12 07:37 : client: [0] closed
+Aug 12 07:37 : client: [34] opened from 127.0.0.1:49464
+Aug 12 07:37 : client: [35] opened from 127.0.0.1:49472
+Aug 12 07:37 : client: [36] opened from 127.0.0.1:49476
+Aug 12 07:37 : client: [36] closed
+Aug 12 07:37 : client: [37] opened from 127.0.0.1:49480
+Aug 12 07:37 : client: [37] closed
+Aug 12 07:37 : client: [38] opened from 127.0.0.1:49484
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:37 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/18 - Anywhere u go.mp3"
+Aug 12 07:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 12 07:37 : client: [38] closed
+Aug 12 07:37 : client: [39] opened from 127.0.0.1:49488
+Aug 12 07:37 : exception: Not playing
+Aug 12 07:37 : client: [39] closed
+Aug 12 07:37 : client: [40] opened from 127.0.0.1:49492
+Aug 12 07:37 : client: [40] closed
+Aug 12 07:37 : client: [41] opened from 127.0.0.1:49496
+Aug 12 07:37 : client: [41] closed
+Aug 12 07:37 : client: [42] opened from 127.0.0.1:49500
+Aug 12 07:37 : client: [42] closed
+Aug 12 07:37 : client: [43] opened from 127.0.0.1:49504
+Aug 12 07:37 : client: [43] closed
+Aug 12 07:37 : player: played "deezloader/A$AP Ferg - Move Ya Hips.mp3"
+Aug 12 07:37 : client: [44] opened from 127.0.0.1:49508
+Aug 12 07:37 : exception: Not playing
+Aug 12 07:37 : client: [44] closed
+Aug 12 07:37 : client: [35] closed
+Aug 12 07:37 : client: [45] opened from 127.0.0.1:49512
+Aug 12 07:37 : client: [45] closed
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/The Weeknd - Blinding Lights.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3; Failed to open '/home/chris/Music/Deezer/The Weeknd - Blinding Lights.mp3': No such file or directory
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:37 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:37 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:38 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:38 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Aug 12 07:38 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Aug 12 07:42 : player: played "deezloader/Taylor Swift - Love Story.mp3"
+Aug 12 07:46 : player: played "deezloader/Taylor Swift - Red.mp3"
+Aug 12 07:47 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/01 - BILLBOARD BABY.mp3"
+Aug 12 07:49 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/02 - PRACTICE.mp3"
+Aug 12 07:51 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/03 - PEEP HOLE.mp3"
+Aug 12 07:54 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/04 - BLIND.mp3"
+Aug 12 07:57 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/05 - NO DRIBBLE.mp3"
+Aug 12 07:57 : client: [46] opened from 127.0.0.1:49550
+Aug 12 07:57 : client: [46] closed
+Aug 12 07:57 : client: [47] opened from 127.0.0.1:49554
+Aug 12 07:57 : client: [47] closed
+Aug 12 07:57 : client: [48] opened from 127.0.0.1:49558
+Aug 12 07:57 : client: [48] closed
+Aug 12 07:57 : client: [49] opened from 127.0.0.1:49562
+Aug 12 07:57 : client: [49] closed
+Aug 12 07:57 : player: played "deezloader/DaBaby - BLAME IT ON BABY (DELUXE)/06 - GO.mp3"
+Aug 12 07:57 : client: [50] opened from 127.0.0.1:49566
+Aug 12 07:57 : client: [50] closed
+Aug 12 07:57 : client: [51] opened from 127.0.0.1:49570
+Aug 12 07:57 : client: [51] closed
+Aug 12 07:57 : client: [52] opened from 127.0.0.1:49574
+Aug 12 07:57 : client: [52] closed
+Aug 12 07:57 : client: [53] opened from 127.0.0.1:49578
+Aug 12 07:57 : client: [53] closed
+Aug 12 07:57 : client: [54] opened from 127.0.0.1:49582
+Aug 12 07:57 : client: [54] closed
+Aug 12 08:00 : client: [7] closed
+Aug 12 08:00 : player: played "deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3"
+Aug 12 08:00 : client: [55] opened from 127.0.0.1:49596
+Aug 12 08:00 : client: [55] closed
+Aug 12 08:00 : client: [56] opened from 127.0.0.1:49600
+Aug 12 08:00 : client: [56] closed
+Aug 12 08:00 : client: [57] opened from 127.0.0.1:49604
+Aug 12 08:00 : client: [57] closed
+Aug 12 08:00 : client: [58] opened from 127.0.0.1:49608
+Aug 12 08:00 : client: [58] closed
+Aug 12 08:00 : client: [59] opened from 127.0.0.1:49612
+Aug 12 08:00 : client: [59] closed
+Aug 12 08:00 : client: [60] opened from 127.0.0.1:49616
+Aug 12 08:00 : client: [60] closed
+Aug 12 08:00 : client: [61] opened from 127.0.0.1:49620
+Aug 12 08:00 : client: [61] closed
+Aug 12 08:00 : client: [62] opened from 127.0.0.1:49624
+Aug 12 08:00 : client: [62] closed
+Aug 12 08:00 : client: [63] opened from 127.0.0.1:49628
+Aug 12 08:00 : client: [63] closed
+Aug 13 01:34 : client: [64] opened from 127.0.0.1:51494
+Aug 13 01:34 : client: [64] closed
+Aug 13 18:01 : client: [65] opened from 127.0.0.1:54716
+Aug 13 18:01 : client: [65] closed
+Aug 15 15:16 : client: [66] opened from 127.0.0.1:37536
+Aug 15 15:16 : client: [66] closed
+Aug 15 15:16 : client: [67] opened from 127.0.0.1:37540
+Aug 15 15:16 : client: [67] closed
+Aug 15 15:16 : client: [68] opened from 127.0.0.1:37544
+Aug 15 15:16 : client: [68] closed
+Aug 15 15:16 : client: [69] opened from 127.0.0.1:37548
+Aug 15 15:16 : client: [69] closed
+Aug 15 15:16 : client: [34] closed
+Aug 15 15:16 : client: [70] opened from 127.0.0.1:37552
+Aug 16 09:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 09:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 09:24 : client: [0] opened from 127.0.0.1:59910
+Aug 16 09:24 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 16 18:03 : client: [0] closed
+Aug 16 18:03 : client: [1] opened from 127.0.0.1:60818
+Aug 16 20:58 : client: [1] closed
+Aug 16 20:58 : client: [2] opened from 127.0.0.1:60996
+Aug 17 12:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:46 : client: [0] opened from 127.0.0.1:50790
+Aug 17 12:46 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 17 12:46 : client: [0] closed
+Aug 17 12:46 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 17 12:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:47 : client: [0] opened from 127.0.0.1:56080
+Aug 17 12:47 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 17 12:49 : client: [0] closed
+Aug 17 12:49 : client: [1] opened from 127.0.0.1:56088
+Aug 17 12:50 : client: [1] closed
+Aug 17 12:50 : client: [2] opened from 127.0.0.1:56094
+Aug 17 12:50 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 17 12:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:51 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 17 12:51 : client: [0] opened from 127.0.0.1:39920
+Aug 18 04:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 04:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 04:10 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 18 04:10 : client: [0] opened from 127.0.0.1:40252
+Aug 19 08:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 08:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 08:38 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 19 08:38 : client: [0] opened from 127.0.0.1:47592
+Aug 19 20:16 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 19 20:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 20:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 20:16 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 19 20:16 : client: [0] opened from 127.0.0.1:40194
+Aug 20 11:16 : client: [0] closed
+Aug 20 11:16 : client: [1] opened from 127.0.0.1:41926
+Aug 21 12:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:42 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 21 12:42 : client: [0] opened from 127.0.0.1:54286
+Aug 21 12:44 : client: [0] closed
+Aug 21 12:44 : client: [1] opened from 127.0.0.1:54350
+Aug 21 12:44 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 21 12:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:44 : client: [0] opened from 127.0.0.1:49080
+Aug 21 12:44 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 21 12:47 : client: [0] closed
+Aug 21 12:47 : client: [1] opened from 127.0.0.1:49098
+Aug 21 12:47 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 21 12:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:48 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 21 12:48 : client: [0] opened from 127.0.0.1:52420
+Aug 21 15:55 : client: [1] opened from 127.0.0.1:53208
+Aug 21 15:55 : client: [1] closed
+Aug 21 20:13 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 22 01:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 01:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 01:15 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 22 01:15 : client: [0] opened from 127.0.0.1:43566
+Aug 23 01:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 01:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 01:04 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 23 01:04 : client: [0] opened from 127.0.0.1:41262
+Aug 23 22:26 : client: [1] opened from 127.0.0.1:43634
+Aug 23 22:26 : client: [1] closed
+Aug 24 16:52 : client: [0] closed
+Aug 24 16:52 : client: [2] opened from 127.0.0.1:44278
+Aug 24 16:53 : client: [3] opened from 127.0.0.1:44282
+Aug 24 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 16:53 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Aug 24 16:54 : client: [3] closed
+Aug 24 16:54 : client: [4] opened from 127.0.0.1:44286
+Aug 24 16:54 : client: [4] closed
+Aug 24 21:27 : client: [2] closed
+Aug 24 21:27 : client: [5] opened from 127.0.0.1:44312
+Aug 24 21:29 : client: [5] closed
+Aug 24 21:29 : client: [6] opened from 127.0.0.1:44322
+Aug 24 21:29 : client: [6] closed
+Aug 24 21:29 : client: [7] opened from 127.0.0.1:44328
+Aug 24 21:29 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Aug 24 21:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 21:30 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 24 21:30 : client: [0] opened from 127.0.0.1:44140
+Aug 24 21:32 : client: [0] closed
+Aug 24 21:32 : client: [1] opened from 127.0.0.1:44148
+Aug 24 21:33 : client: [1] closed
+Aug 24 21:33 : client: [2] opened from 127.0.0.1:44154
+Aug 24 21:34 : client: [2] closed
+Aug 24 21:34 : client: [3] opened from 127.0.0.1:44160
+Aug 24 21:40 : client: [3] closed
+Aug 24 21:41 : client: [4] opened from 127.0.0.1:44316
+Aug 24 21:41 : client: [4] closed
+Aug 24 21:41 : client: [5] opened from 127.0.0.1:44322
+Aug 24 21:44 : client: [5] closed
+Aug 24 21:44 : client: [6] opened from 127.0.0.1:44340
+Aug 24 21:44 : client: [6] closed
+Aug 24 21:44 : client: [7] opened from 127.0.0.1:44348
+Aug 24 21:45 : client: [7] closed
+Aug 24 21:45 : client: [8] opened from 127.0.0.1:44358
+Aug 24 22:31 : client: [8] closed
+Aug 24 22:31 : client: [9] opened from 127.0.0.1:44566
+Aug 24 22:31 : client: [9] closed
+Aug 24 22:31 : client: [10] opened from 127.0.0.1:44572
+Aug 24 22:34 : client: [10] closed
+Aug 24 22:34 : client: [11] opened from 127.0.0.1:44586
+Aug 24 22:34 : client: [11] closed
+Aug 24 22:34 : client: [12] opened from 127.0.0.1:44594
+Aug 24 22:40 : client: [12] closed
+Aug 24 22:40 : client: [13] opened from 127.0.0.1:44608
+Aug 24 22:40 : client: [13] closed
+Aug 24 22:40 : client: [14] opened from 127.0.0.1:44614
+Aug 24 22:43 : client: [14] closed
+Aug 24 22:43 : client: [15] opened from 127.0.0.1:44638
+Aug 24 22:44 : client: [16] opened from 127.0.0.1:44646
+Aug 24 22:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 22:44 : client: [16] closed
+Aug 24 22:44 : client: [17] opened from 127.0.0.1:44650
+Aug 24 22:44 : client: [17] closed
+Aug 24 22:44 : client: [18] opened from 127.0.0.1:44654
+Aug 24 22:44 : client: [18] closed
+Aug 24 22:44 : client: [19] opened from 127.0.0.1:44658
+Aug 24 22:44 : client: [19] closed
+Aug 24 22:44 : client: [20] opened from 127.0.0.1:44662
+Aug 24 22:44 : client: [20] closed
+Aug 24 22:44 : client: [21] opened from 127.0.0.1:44666
+Aug 24 22:44 : client: [21] closed
+Aug 24 22:44 : client: [22] opened from 127.0.0.1:44670
+Aug 24 22:44 : client: [22] closed
+Aug 24 22:44 : client: [23] opened from 127.0.0.1:44674
+Aug 24 22:44 : client: [23] closed
+Aug 24 22:44 : client: [24] opened from 127.0.0.1:44678
+Aug 24 22:44 : client: [24] closed
+Aug 24 22:45 : client: [15] closed
+Aug 24 22:45 : client: [25] opened from 127.0.0.1:44680
+Aug 24 22:45 : client: [25] closed
+Aug 24 22:45 : client: [26] opened from 127.0.0.1:44686
+Aug 24 22:46 : client: [26] closed
+Aug 24 22:46 : client: [27] opened from 127.0.0.1:44692
+Aug 24 22:46 : client: [27] closed
+Aug 24 22:46 : client: [28] opened from 127.0.0.1:44702
+Aug 24 22:46 : client: [29] opened from 127.0.0.1:44712
+Aug 24 22:46 : client: [29] closed
+Aug 24 22:46 : client: [30] opened from 127.0.0.1:44716
+Aug 24 22:46 : client: [30] closed
+Aug 24 22:46 : client: [31] opened from 127.0.0.1:44720
+Aug 24 22:46 : client: [31] closed
+Aug 24 22:46 : client: [32] opened from 127.0.0.1:44724
+Aug 24 22:46 : client: [32] closed
+Aug 24 22:47 : client: [33] opened from 127.0.0.1:44728
+Aug 24 22:47 : client: [33] closed
+Aug 24 22:47 : client: [34] opened from 127.0.0.1:44732
+Aug 24 22:47 : client: [34] closed
+Aug 24 22:47 : client: [35] opened from 127.0.0.1:44736
+Aug 24 22:47 : client: [35] closed
+Aug 24 22:47 : client: [36] opened from 127.0.0.1:44740
+Aug 24 22:47 : client: [36] closed
+Aug 24 22:47 : client: [37] opened from 127.0.0.1:44744
+Aug 24 22:47 : client: [37] closed
+Aug 24 22:47 : client: [38] opened from 127.0.0.1:44748
+Aug 24 22:47 : client: [38] closed
+Aug 24 22:47 : client: [39] opened from 127.0.0.1:44752
+Aug 24 22:47 : client: [39] closed
+Aug 24 22:47 : client: [40] opened from 127.0.0.1:44756
+Aug 24 22:47 : client: [40] closed
+Aug 24 22:48 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/01 - LIGHT BEAMS.mp3"
+Aug 24 22:48 : client: [28] closed
+Aug 24 22:48 : client: [41] opened from 127.0.0.1:44760
+Aug 24 22:48 : client: [41] closed
+Aug 24 22:48 : client: [42] opened from 127.0.0.1:44766
+Aug 24 22:49 : client: [42] closed
+Aug 24 22:49 : exception: Failed to play on "pulse audio" (pulse): suspended
+Aug 24 22:49 : client: [43] opened from 127.0.0.1:44772
+Aug 24 22:49 : client: [43] closed
+Aug 24 22:49 : client: [44] opened from 127.0.0.1:44780
+Aug 24 22:49 : client: [44] closed
+Aug 24 22:49 : client: [45] opened from 127.0.0.1:44786
+Aug 24 22:49 : client: [45] closed
+Aug 24 22:49 : client: [46] opened from 127.0.0.1:44792
+Aug 24 22:50 : client: [47] opened from 127.0.0.1:44800
+Aug 24 22:50 : client: [47] closed
+Aug 24 22:50 : client: [48] opened from 127.0.0.1:44804
+Aug 24 22:50 : client: [48] closed
+Aug 24 22:51 : client: [46] closed
+Aug 24 22:51 : client: [49] opened from 127.0.0.1:44806
+Aug 24 22:51 : client: [49] closed
+Aug 24 22:51 : client: [50] opened from 127.0.0.1:44812
+Aug 24 22:51 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/02 - disco tits.mp3"
+Aug 24 22:53 : client: [50] closed
+Aug 24 22:53 : client: [51] opened from 127.0.0.1:44820
+Aug 24 22:54 : client: [51] closed
+Aug 24 22:54 : client: [52] opened from 127.0.0.1:44826
+Aug 24 22:54 : client: [52] closed
+Aug 24 22:54 : exception: Failed to play on "pulse audio" (pulse): suspended
+Aug 24 22:54 : client: [53] opened from 127.0.0.1:44832
+Aug 24 22:54 : client: [54] opened from 127.0.0.1:44836
+Aug 24 22:54 : client: [54] closed
+Aug 24 22:54 : client: [55] opened from 127.0.0.1:44840
+Aug 24 22:54 : client: [55] closed
+Aug 24 22:54 : client: [56] opened from 127.0.0.1:44844
+Aug 24 22:54 : client: [56] closed
+Aug 24 22:54 : client: [57] opened from 127.0.0.1:44848
+Aug 24 22:54 : client: [57] closed
+Aug 24 22:54 : client: [58] opened from 127.0.0.1:44856
+Aug 24 22:54 : client: [58] closed
+Aug 24 22:54 : client: [59] opened from 127.0.0.1:44862
+Aug 24 22:54 : client: [60] opened from 127.0.0.1:44866
+Aug 24 22:54 : client: [60] closed
+Aug 24 22:54 : client: [61] opened from 127.0.0.1:44870
+Aug 24 22:54 : client: [61] closed
+Aug 24 22:54 : client: [62] opened from 127.0.0.1:44874
+Aug 24 22:54 : client: [62] closed
+Aug 24 22:54 : client: [63] opened from 127.0.0.1:44878
+Aug 24 22:54 : client: [63] closed
+Aug 24 22:54 : client: [64] opened from 127.0.0.1:44882
+Aug 24 22:54 : client: [64] closed
+Aug 24 22:54 : client: [65] opened from 127.0.0.1:44886
+Aug 24 22:54 : client: [65] closed
+Aug 24 22:54 : client: [66] opened from 127.0.0.1:44890
+Aug 24 22:54 : client: [66] closed
+Aug 24 22:54 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Aug 24 22:55 : client: [59] closed
+Aug 24 22:56 : client: [53] closed
+Aug 24 22:56 : client: [67] opened from 127.0.0.1:44892
+Aug 24 22:56 : client: [67] closed
+Aug 24 22:56 : client: [68] opened from 127.0.0.1:44898
+Aug 24 22:58 : player: played "deezloader/Rema - Rema Compilation/03 - Corny.mp3"
+Aug 24 23:01 : client: [68] closed
+Aug 24 23:02 : player: played "deezloader/Krizbeatz - African Time/05 - Aminah.mp3"
+Aug 24 23:04 : client: [69] opened from 127.0.0.1:45434
+Aug 24 23:04 : client: [69] closed
+Aug 24 23:05 : client: [70] opened from 127.0.0.1:45452
+Aug 24 23:05 : client: [70] closed
+Aug 24 23:05 : client: [71] opened from 127.0.0.1:45458
+Aug 24 23:06 : client: [71] closed
+Aug 24 23:06 : client: [72] opened from 127.0.0.1:45464
+Aug 24 23:10 : client: [72] closed
+Aug 24 23:10 : client: [73] opened from 127.0.0.1:45474
+Aug 24 23:11 : client: [73] closed
+Aug 24 23:11 : client: [74] opened from 127.0.0.1:45484
+Aug 24 23:11 : client: [74] closed
+Aug 24 23:11 : client: [75] opened from 127.0.0.1:45494
+Aug 24 23:12 : client: [75] closed
+Aug 24 23:12 : client: [76] opened from 127.0.0.1:45540
+Aug 24 23:12 : client: [76] closed
+Aug 24 23:12 : client: [77] opened from 127.0.0.1:45546
+Aug 24 23:12 : client: [77] closed
+Aug 24 23:12 : client: [78] opened from 127.0.0.1:45554
+Aug 24 23:14 : client: [78] closed
+Aug 24 23:14 : client: [79] opened from 127.0.0.1:45562
+Aug 24 23:16 : client: [79] closed
+Aug 24 23:16 : client: [80] opened from 127.0.0.1:45568
+Aug 24 23:17 : client: [80] closed
+Aug 24 23:17 : client: [81] opened from 127.0.0.1:45574
+Aug 24 23:17 : client: [81] closed
+Aug 24 23:17 : client: [82] opened from 127.0.0.1:45582
+Aug 24 23:18 : client: [82] closed
+Aug 24 23:18 : client: [83] opened from 127.0.0.1:45596
+Aug 24 23:18 : client: [83] closed
+Aug 24 23:18 : client: [84] opened from 127.0.0.1:45608
+Aug 24 23:18 : client: [84] closed
+Aug 24 23:18 : client: [85] opened from 127.0.0.1:45614
+Aug 24 23:19 : client: [85] closed
+Aug 24 23:19 : client: [86] opened from 127.0.0.1:45620
+Aug 24 23:24 : client: [86] closed
+Aug 24 23:24 : client: [87] opened from 127.0.0.1:45634
+Aug 24 23:28 : client: [87] closed
+Aug 24 23:28 : client: [88] opened from 127.0.0.1:45744
+Aug 24 23:30 : client: [88] closed
+Aug 25 21:55 : client: [89] opened from 127.0.0.1:49306
+Aug 25 21:56 : client: [89] closed
+Aug 25 21:58 : client: [90] opened from 127.0.0.1:49318
+Aug 25 21:58 : client: [90] closed
+Aug 25 21:59 : client: [91] opened from 127.0.0.1:49324
+Aug 25 22:00 : client: [91] closed
+Aug 25 22:00 : client: [92] opened from 127.0.0.1:49330
+Aug 25 22:00 : client: [92] closed
+Aug 25 22:00 : client: [93] opened from 127.0.0.1:49336
+Aug 25 22:00 : client: [93] closed
+Aug 25 22:00 : client: [94] opened from 127.0.0.1:49342
+Aug 25 22:00 : client: [94] closed
+Aug 25 22:00 : client: [95] opened from 127.0.0.1:49348
+Aug 25 22:01 : client: [95] closed
+Aug 25 22:01 : client: [96] opened from 127.0.0.1:49354
+Aug 25 22:01 : client: [96] closed
+Aug 25 22:01 : client: [97] opened from 127.0.0.1:49360
+Aug 25 22:01 : client: [97] closed
+Aug 25 22:01 : client: [98] opened from 127.0.0.1:49366
+Aug 25 22:01 : client: [98] closed
+Aug 25 22:01 : client: [99] opened from 127.0.0.1:49372
+Aug 25 22:01 : client: [100] opened from 127.0.0.1:49380
+Aug 25 22:01 : client: [100] closed
+Aug 25 22:02 : client: [99] closed
+Aug 25 22:02 : client: [101] opened from 127.0.0.1:49382
+Aug 25 22:03 : client: [101] closed
+Aug 25 22:03 : client: [102] opened from 127.0.0.1:49390
+Aug 25 22:03 : client: [102] closed
+Aug 25 22:04 : client: [103] opened from 127.0.0.1:49396
+Aug 25 22:05 : client: [103] closed
+Aug 25 22:05 : client: [104] opened from 127.0.0.1:49402
+Aug 25 22:06 : client: [104] closed
+Aug 25 22:06 : client: [105] opened from 127.0.0.1:49466
+Aug 25 22:06 : client: [105] closed
+Aug 25 22:06 : client: [106] opened from 127.0.0.1:49472
+Aug 25 22:06 : client: [106] closed
+Aug 25 22:06 : client: [107] opened from 127.0.0.1:49478
+Aug 25 22:06 : client: [107] closed
+Aug 25 22:06 : client: [108] opened from 127.0.0.1:49484
+Aug 25 22:06 : client: [108] closed
+Aug 25 22:06 : client: [109] opened from 127.0.0.1:49490
+Aug 25 22:07 : client: [109] closed
+Aug 25 22:07 : client: [110] opened from 127.0.0.1:49500
+Aug 25 23:14 : client: [110] closed
+Aug 25 23:14 : client: [111] opened from 127.0.0.1:49664
+Aug 25 23:22 : client: [111] closed
+Aug 25 23:22 : client: [112] opened from 127.0.0.1:49712
+Aug 25 23:39 : client: [112] closed
+Aug 25 23:40 : client: [113] opened from 127.0.0.1:49892
+Aug 26 10:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 10:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 10:50 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 26 10:50 : client: [0] opened from 127.0.0.1:38540
+Aug 26 23:40 : client: [1] opened from 127.0.0.1:39512
+Aug 26 23:40 : client: [1] closed
+Aug 27 13:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 13:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 13:36 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 27 13:36 : client: [0] opened from 127.0.0.1:60002
+Aug 27 23:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:12 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 27 23:12 : client: [0] opened from 127.0.0.1:35842
+Aug 27 23:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:32 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 27 23:32 : client: [0] opened from 127.0.0.1:57158
+Aug 28 07:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 07:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 07:27 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 28 07:27 : client: [0] opened from 127.0.0.1:40470
+Aug 28 08:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 08:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 08:08 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 28 08:08 : client: [0] opened from 127.0.0.1:48564
+Aug 30 07:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 07:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 07:11 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 30 07:11 : client: [0] opened from 127.0.0.1:49286
+Aug 31 07:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 07:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 07:16 : avahi: Service 'Music Player @ mines' successfully established.
+Aug 31 07:16 : client: [0] opened from 127.0.0.1:45814
+Aug 31 07:18 : client: [0] closed
+Aug 31 07:19 : client: [1] opened from 127.0.0.1:45840
+Sep 01 11:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 11:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 11:22 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 01 11:22 : client: [0] opened from 127.0.0.1:53674
+Sep 01 13:12 : client: [1] opened from 127.0.0.1:54008
+Sep 01 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 13:12 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 01 13:12 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 01 13:12 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 01 13:12 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 01 13:12 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 01 13:25 : client: [1] closed
+Sep 01 21:19 : client: [2] opened from 127.0.0.1:54636
+Sep 01 21:19 : client: [2] closed
+Sep 02 16:05 : client: [3] opened from 127.0.0.1:57004
+Sep 02 16:05 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 02 16:06 : client: [4] opened from 127.0.0.1:57028
+Sep 02 16:06 : client: [4] closed
+Sep 02 17:26 : client: [3] closed
+Sep 03 00:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 00:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 00:44 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 03 00:44 : client: [0] opened from 127.0.0.1:36574
+Sep 03 19:03 : player: played "deezloader/Azana - Ingoma/03 - Egoli.mp3"
+Sep 03 19:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 19:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 19:04 : client: [0] opened from 127.0.0.1:46540
+Sep 03 19:04 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 04 22:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 22:14 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 04 22:14 : client: [0] opened from 127.0.0.1:59918
+Sep 05 10:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 10:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 10:52 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 05 10:52 : client: [0] opened from 127.0.0.1:41410
+Sep 05 10:53 : client: [0] closed
+Sep 05 10:53 : client: [1] opened from 127.0.0.1:41422
+Sep 05 13:08 : player: played "deezloader/Azana - Ingoma/03 - Egoli.mp3"
+Sep 05 13:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 13:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 13:09 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 05 13:09 : client: [0] opened from 127.0.0.1:50480
+Sep 07 10:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 10:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 10:56 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 07 10:56 : client: [0] opened from 127.0.0.1:41718
+Sep 08 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 22:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 22:22 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 08 22:22 : client: [0] opened from 127.0.0.1:50182
+Sep 09 04:23 : player: played "deezloader/Azana - Ingoma/03 - Egoli.mp3"
+Sep 09 05:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 05:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 05:38 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 09 05:38 : client: [0] opened from 127.0.0.1:49854
+Sep 09 07:20 : player: played "deezloader/Azana - Ingoma/03 - Egoli.mp3"
+Sep 09 07:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 07:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 07:21 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 09 07:21 : client: [0] opened from 127.0.0.1:60092
+Sep 09 07:21 : client: [0] closed
+Sep 09 07:21 : client: [1] opened from 127.0.0.1:60100
+Sep 10 06:48 : client: [2] opened from 127.0.0.1:33328
+Sep 10 06:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 06:48 : client: [2] closed
+Sep 10 06:48 : client: [3] opened from 127.0.0.1:33334
+Sep 10 06:48 : client: [4] opened from 127.0.0.1:33344
+Sep 10 06:48 : client: [5] opened from 127.0.0.1:33348
+Sep 10 06:48 : client: [6] opened from 127.0.0.1:33352
+Sep 10 06:48 : client: [7] opened from 127.0.0.1:33356
+Sep 10 06:48 : client: [3] closed
+Sep 10 06:48 : client: [7] closed
+Sep 10 06:48 : client: [6] closed
+Sep 10 06:48 : client: [5] closed
+Sep 10 06:48 : client: [4] closed
+Sep 10 06:48 : client: [8] opened from 127.0.0.1:33366
+Sep 10 06:48 : client: [8] closed
+Sep 10 14:02 : client: [9] opened from 127.0.0.1:34230
+Sep 10 14:02 : client: [9] closed
+Sep 10 14:02 : client: [10] opened from 127.0.0.1:34234
+Sep 10 14:02 : client: [10] closed
+Sep 10 14:02 : client: [11] opened from 127.0.0.1:34238
+Sep 10 14:02 : client: [11] closed
+Sep 10 14:02 : client: [12] opened from 127.0.0.1:34242
+Sep 10 14:03 : client: [12] closed
+Sep 10 14:04 : client: [13] opened from 127.0.0.1:34260
+Sep 10 14:04 : client: [13] closed
+Sep 10 14:04 : client: [14] opened from 127.0.0.1:34264
+Sep 10 14:04 : client: [14] closed
+Sep 10 14:04 : client: [15] opened from 127.0.0.1:34268
+Sep 10 14:04 : client: [15] closed
+Sep 10 14:04 : client: [16] opened from 127.0.0.1:34272
+Sep 10 14:04 : client: [16] closed
+Sep 10 14:05 : client: [17] opened from 127.0.0.1:34278
+Sep 10 14:05 : client: [18] opened from 127.0.0.1:34284
+Sep 10 14:05 : client: [18] closed
+Sep 10 14:05 : client: [19] opened from 127.0.0.1:34288
+Sep 10 14:05 : client: [19] closed
+Sep 10 14:05 : client: [20] opened from 127.0.0.1:34292
+Sep 10 14:05 : client: [20] closed
+Sep 10 14:05 : client: [21] opened from 127.0.0.1:34296
+Sep 10 14:05 : client: [21] closed
+Sep 10 14:06 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 10 14:06 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 10 14:06 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 10 14:06 : client: [17] closed
+Sep 10 14:07 : client: [22] opened from 127.0.0.1:34304
+Sep 10 14:07 : client: [22] closed
+Sep 10 14:08 : player: played "deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3"
+Sep 10 14:10 : client: [23] opened from 127.0.0.1:34318
+Sep 10 14:10 : client: [23] closed
+Sep 10 14:10 : client: [24] opened from 127.0.0.1:34326
+Sep 10 14:10 : client: [24] closed
+Sep 10 14:11 : client: [25] opened from 127.0.0.1:34330
+Sep 10 14:11 : client: [25] closed
+Sep 10 14:11 : client: [26] opened from 127.0.0.1:34334
+Sep 10 14:11 : client: [26] closed
+Sep 10 14:11 : client: [27] opened from 127.0.0.1:34338
+Sep 10 14:11 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 10 14:11 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 10 14:11 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 10 14:11 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 10 14:11 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 10 14:11 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 10 14:11 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 10 14:11 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 10 14:12 : client: [27] closed
+Sep 10 14:15 : player: played "deezloader/Rema - Rema Compilation/03 - Corny.mp3"
+Sep 10 14:18 : player: played "deezloader/Rema - Rema Compilation/04 - Dumebi.mp3"
+Sep 10 15:22 : player: played "deezloader/Rema - Rema Compilation/05 - Why.mp3"
+Sep 10 15:23 : client: [28] opened from 127.0.0.1:34384
+Sep 10 15:23 : client: [28] closed
+Sep 11 06:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 06:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 06:26 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 11 06:26 : client: [0] opened from 127.0.0.1:43320
+Sep 11 06:43 : client: [1] opened from 127.0.0.1:43574
+Sep 11 06:43 : client: [1] closed
+Sep 11 06:43 : client: [2] opened from 127.0.0.1:43578
+Sep 11 06:43 : client: [2] closed
+Sep 11 06:43 : client: [3] opened from 127.0.0.1:43584
+Sep 11 06:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 06:44 : client: [4] opened from 127.0.0.1:43592
+Sep 11 06:44 : client: [4] closed
+Sep 11 06:44 : client: [5] opened from 127.0.0.1:43596
+Sep 11 06:44 : client: [5] closed
+Sep 11 06:44 : client: [6] opened from 127.0.0.1:43600
+Sep 11 06:44 : client: [6] closed
+Sep 11 06:44 : client: [7] opened from 127.0.0.1:43604
+Sep 11 06:44 : client: [7] closed
+Sep 11 06:44 : client: [8] opened from 127.0.0.1:43608
+Sep 11 06:44 : client: [8] closed
+Sep 11 06:44 : client: [3] closed
+Sep 11 06:44 : client: [9] opened from 127.0.0.1:43612
+Sep 11 06:44 : client: [9] closed
+Sep 11 06:48 : player: played "deezloader/Rema - Rema Compilation/03 - Corny.mp3"
+Sep 11 06:48 : client: [10] opened from 127.0.0.1:43832
+Sep 11 06:48 : client: [10] closed
+Sep 11 16:50 : client: [11] opened from 127.0.0.1:45852
+Sep 11 16:50 : client: [11] closed
+Sep 11 16:50 : client: [12] opened from 127.0.0.1:45856
+Sep 11 16:50 : client: [12] closed
+Sep 12 04:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 04:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 04:59 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 12 04:59 : client: [0] opened from 127.0.0.1:45458
+Sep 12 05:40 : client: [1] opened from 127.0.0.1:45902
+Sep 12 05:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 05:41 : client: [2] opened from 127.0.0.1:45906
+Sep 12 05:41 : client: [2] closed
+Sep 12 05:43 : player: played "deezloader/Niniola - Fantasy.mp3"
+Sep 12 05:47 : client: [3] opened from 127.0.0.1:45918
+Sep 12 05:47 : client: [4] opened from 127.0.0.1:45922
+Sep 12 05:47 : client: [4] closed
+Sep 12 05:47 : client: [3] closed
+Sep 12 05:47 : client: [5] opened from 127.0.0.1:45926
+Sep 12 05:47 : client: [5] closed
+Sep 12 05:47 : client: [1] closed
+Sep 12 12:01 : client: [6] opened from 127.0.0.1:46808
+Sep 12 12:04 : client: [7] opened from 127.0.0.1:46816
+Sep 12 12:04 : client: [7] closed
+Sep 12 16:37 : client: [6] closed
+Sep 13 23:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 23:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 23:04 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 13 23:04 : client: [0] opened from 127.0.0.1:58006
+Sep 16 00:29 : client: [0] closed
+Sep 16 00:29 : client: [1] opened from 127.0.0.1:34646
+Sep 16 06:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 06:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 06:49 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 16 06:49 : client: [0] opened from 127.0.0.1:38024
+Sep 16 06:55 : client: [1] opened from 127.0.0.1:38498
+Sep 16 06:55 : client: [1] closed
+Sep 17 02:52 : player: played "deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3"
+Sep 17 02:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 02:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 02:52 : client: [0] opened from 127.0.0.1:46980
+Sep 17 02:52 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 17 02:53 : client: [0] closed
+Sep 17 02:53 : client: [1] opened from 127.0.0.1:47070
+Sep 18 09:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 09:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 09:33 : client: [0] opened from 127.0.0.1:51742
+Sep 18 09:33 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 18 09:36 : client: [0] closed
+Sep 18 09:36 : client: [1] opened from 127.0.0.1:51750
+Sep 19 18:26 : client: [2] opened from 127.0.0.1:52864
+Sep 19 18:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 18:26 : client: [3] opened from 127.0.0.1:52868
+Sep 19 18:26 : client: [3] closed
+Sep 19 18:26 : client: [4] opened from 127.0.0.1:52872
+Sep 19 18:26 : client: [4] closed
+Sep 19 18:26 : client: [5] opened from 127.0.0.1:52876
+Sep 19 18:26 : client: [5] closed
+Sep 19 18:26 : client: [2] closed
+Sep 20 08:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 08:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 08:48 : client: [0] opened from 127.0.0.1:46904
+Sep 20 08:48 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 20 10:16 : client: [1] opened from 127.0.0.1:47282
+Sep 20 10:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 10:16 : client: [1] closed
+Sep 20 10:16 : client: [2] opened from 127.0.0.1:47286
+Sep 20 10:16 : client: [2] closed
+Sep 24 09:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 09:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 09:16 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 24 09:16 : client: [0] opened from 127.0.0.1:36926
+Sep 25 18:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 18:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 18:06 : client: [0] opened from 127.0.0.1:41480
+Sep 25 18:06 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 26 08:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 26 08:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 26 08:56 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 26 08:56 : client: [0] opened from 127.0.0.1:59842
+Sep 26 08:56 : client: [0] closed
+Sep 26 08:56 : client: [1] opened from 127.0.0.1:59850
+Sep 28 10:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 10:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 10:19 : client: [0] opened from 127.0.0.1:33278
+Sep 28 10:19 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 28 11:00 : client: [1] opened from 127.0.0.1:33282
+Sep 28 11:04 : client: [2] opened from 127.0.0.1:33286
+Sep 28 11:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 11:07 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 28 11:07 : player: played "Deezer/Midas the Jagaban - Come We Bill Ehh.mp3"
+Sep 28 11:07 : exception: Failed to decode /home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3; Failed to open '/home/chris/Music/Deezer/Midas the Jagaban - Come We Bill Ehh.mp3': No such file or directory
+Sep 28 11:08 : exception: Failed to open /home/chris/Music/.playlists/: No such file or directory
+Sep 28 11:09 : client: [1] closed
+Sep 28 11:10 : player: played "deezloader/Post Malone - Hollywood's Bleeding/12 - Sunflower.mp3"
+Sep 28 11:12 : player: played "deezloader/A$AP Ferg - Move Ya Hips.mp3"
+Sep 28 11:15 : player: played "deezloader/A$AP Ferg - Move Ya Hips.mp3"
+Sep 28 11:19 : player: played "deezloader/Justin Timberlake - CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's _TROLLS_).mp3"
+Sep 28 11:20 : client: [3] opened from 127.0.0.1:33290
+Sep 28 11:20 : client: [3] closed
+Sep 28 11:20 : client: [4] opened from 127.0.0.1:33294
+Sep 28 11:20 : client: [4] closed
+Sep 28 11:21 : player: played "deezloader/Shenseea - Bad Habit.mp3"
+Sep 28 11:24 : player: played "deezloader/Shenseea - Wasabi.mp3"
+Sep 28 11:26 : player: played "deezloader/Shenseea - Rude Gyal.mp3"
+Sep 28 11:28 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/01 - LIGHT BEAMS.mp3"
+Sep 28 11:31 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/02 - disco tits.mp3"
+Sep 28 11:35 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/03 - shedontknowbutsheknows.mp3"
+Sep 28 11:38 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/04 - shivering gold.mp3"
+Sep 28 11:42 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/05 - dont ask dont tell.mp3"
+Sep 28 11:46 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/06 - stranger.mp3"
+Sep 28 11:48 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/07 - bitches.mp3"
+Sep 28 11:49 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/08 - PITCH BLACK.mp3"
+Sep 28 11:53 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/09 - romantics.mp3"
+Sep 28 11:56 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/10 - cycles.mp3"
+Sep 28 12:00 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/11 - struggle.mp3"
+Sep 28 12:03 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/12 - 9th of october.mp3"
+Sep 28 12:07 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/13 - bad days.mp3"
+Sep 28 12:11 : player: played "deezloader/Tove Lo - BLUE LIPS (lady wood phase II)/14 - hey you got drugs_.mp3"
+Sep 28 12:14 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/01 - sadder badder cooler.mp3"
+Sep 28 12:17 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/02 - Bikini Porn.mp3"
+Sep 28 12:20 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/03 - I'm Coming.mp3"
+Sep 28 12:24 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/04 - Passion and Pain Taste the Same When I’m Weak.mp3"
+Sep 28 12:25 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/05 - Gritty Pretty (Intro).mp3"
+Sep 28 12:28 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/06 - Glad He's Gone.mp3"
+Sep 28 12:31 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/07 - Bad as the Boys.mp3"
+Sep 28 12:34 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/08 - Sweettalk my Heart.mp3"
+Sep 28 14:41 : player: played "deezloader/Tove Lo - Sunshine Kitty (Paw Prints Edition)/09 - Stay Over.mp3"
+Sep 28 14:44 : client: [5] opened from 127.0.0.1:33306
+Sep 28 14:44 : client: [5] closed
+Sep 28 14:56 : client: [2] closed
+Sep 29 08:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 29 08:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 29 08:45 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 29 08:45 : client: [0] opened from 127.0.0.1:56718
+Sep 30 06:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 06:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 06:22 : avahi: Service 'Music Player @ mines' successfully established.
+Sep 30 06:22 : client: [0] opened from 127.0.0.1:50124
